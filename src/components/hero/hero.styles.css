@@ -1,0 +1,29 @@
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-left {
+    width: 30rem;
+}
+
+.hero-left h1 {
+    font-size: 5rem;
+    line-height: 4.5rem;
+}
+
+.hero-left h3 {
+    font-weight: 500;
+}
+
+.hero-left p {
+    color: rgb(117, 116, 116);
+}
+
+.hero-img {
+    position: relative;
+    height: 30rem;
+    margin-left: -5rem;
+    z-index: -1;
+}

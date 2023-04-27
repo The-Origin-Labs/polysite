@@ -1,0 +1,45 @@
+.header { 
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+}
+
+.logo-title {
+    font-weight: 500;
+    margin-left: .5rem;
+}
+
+.header-left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.header-left img {
+    height: 1.8rem;
+}
+
+.header a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.header-right ul {
+    display: flex;
+    align-items: center;
+}
+
+.header-right li {
+    list-style: none;
+    margin-left: 4rem;
+}
+
+.header-login {
+    background-color: black;
+    color:  white;
+    width: 8rem;
+    padding: .5rem 2rem;
+    border-radius: 5px;
+}

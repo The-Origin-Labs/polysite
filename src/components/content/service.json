@@ -1,0 +1,22 @@
+[
+    {
+        "service_title": "Property Valuation",
+        "description": "Determining the market value of the property based on various factors such as location, size, condition, and demand."
+    },
+    {
+        "service_title": "Property Listing",
+        "description": "Putting a property up for sale or rent."
+    },
+    {
+        "service_title": "Property Inspection",
+        "description": "Conducting a thorough inspection of the property to identify any issues or defects that may affect its value or saleability."
+    },
+    {
+        "service_title": "Legal documentation",
+        "description": "Preparation and signing of various legal documents such as contracts, deeds, and lease agreements."
+    },
+    {
+        "service_title": "Claim property",
+        "description": "Determining the market value of the property based on various factors such as location, size, condition, and demand."
+    }
+]
