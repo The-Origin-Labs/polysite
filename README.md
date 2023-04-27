@@ -18,7 +18,6 @@
 │   ├── images
 │   ├── lib
 │   ├── scripts
-│   ├── styles
 │   ├── utils
 │   ├── App.js
 │   └── index.js

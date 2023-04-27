@@ -1,0 +1,31 @@
+.hero-section {
+    background-color: #E0D9CE;
+    position: relative;
+    z-index: -2;
+    margin-top: -5rem;
+    height: 40rem;
+    padding-top: 5rem;
+}
+
+.featured-section {
+    display: flex;
+    justify-content: center;
+}
+
+.service-header {
+    margin-top: 10rem;
+    text-align: center;
+    /* width: 20rem; */
+    line-height: 1.8rem;
+    /* width: 100; */
+}
+
+.service-header span {
+    color: #1B82E0;
+}
+
+.services-offered {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 2rem;
+}
