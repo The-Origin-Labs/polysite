@@ -1,0 +1,80 @@
+.profile-page {
+    background-color: antiquewhite;
+    height: 20rem;
+    display: flex;
+    justify-content: center;
+}
+
+.profile-image {
+    height: 15rem;
+    width: 15rem;
+    border-radius: 20rem;
+    margin: 0 2rem;
+    border: 5px solid black;
+}
+
+.profile-header {
+    display: flex;
+    margin-top: 13rem;
+    align-items: center;
+}
+
+.user-header-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.user-header-info h1 {
+    font-weight: 400;
+}
+
+.user-header-info p {
+    margin-left: 1rem;
+    align-items: center;
+    background-color: rgba(177, 177, 177, 0.471);
+    padding: 0 .6rem;
+    border-radius: 10px;
+}
+
+.user-header-info button {
+    background-color: black;
+    outline: none;
+    border: none;
+    color:  white;
+    width: 8rem;
+    padding: .5rem 2rem;
+    border-radius: 5px;
+    margin-left: 1rem;
+    cursor: pointer;
+    transition: all .2s;
+}
+
+.user-header-info button:hover {
+    transform: scale(1.02);
+}
+.user-header-info button:active {
+    transform: scale(0.8);
+}
+
+.user-other-info {
+    display: flex;
+}
+
+.info {
+    margin-right: 2rem;
+}
+
+.info h1 {
+    color: rgb(204, 204, 204);
+    font-weight: 400;
+}
+
+.info p {
+    margin-top: -1rem;
+    color: rgb(62, 61, 61);
+}
+
+.owned-properties {
+    margin-top: 5rem;
+}
