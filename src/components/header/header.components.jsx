@@ -27,7 +27,7 @@ const Header = () => {
                         </Link>
                     </li>
                     <li>
-                        <Link to="/buy">
+                        <Link to="/listing/buy">
                             Buy
                         </Link>
                     </li>
