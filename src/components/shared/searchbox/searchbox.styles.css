@@ -28,7 +28,7 @@
     border-top-right-radius: 10px;
 }
 
-.search-fields input {
+.prop-search {
     border: none;
     outline: none;
     font-family: 'Poppins', sans-serif;

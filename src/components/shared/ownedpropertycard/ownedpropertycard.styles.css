@@ -1,0 +1,97 @@
+
+.owned-property-card {
+    background-color: rgb(241, 239, 239);
+    padding: 1rem;
+    border-radius: 10px;
+    transition: all .5s;
+    margin: 1rem 0;
+}
+
+.owned-property-card:hover {
+    background-color: rgb(225, 225, 225);
+
+}
+
+.property-header {
+    display: flex;
+}
+
+.property-actions {
+    display: flex;
+    align-items: flex-start;
+}
+.prop-header-title {
+    margin-right: 1rem;
+}
+
+.prop-header-title h1 {
+    line-height: 1.5rem;
+    font-weight: 400;
+}
+
+.property-actions button {
+    margin-right: 1rem;
+    padding: .2rem 1rem;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.owned-market-price {
+    text-align: right;
+    line-height: 1.5rem;
+}
+
+.owned-market-price h2 {
+    font-weight: 400;
+}
+
+.property-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sell-button {
+    background-color: black;
+    outline: none;
+    border: none;
+    color:  white;
+    width: 8rem;
+    padding: .5rem 2rem;
+    border-radius: 5px;
+    margin-left: 1rem;
+    cursor: pointer;
+    transition: all .2s;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.sell-button:hover {
+    transform: scale(1.02);
+}
+.sell-button:active {
+    transform: scale(0.8);
+}
+
+.tx-id {
+    display: flex;
+}
+
+.tx-id span {
+    margin-left: 1rem;
+}
+
+.tx-process-info {
+    display: flex;
+}
+.tx-process-info span {
+    margin: 0 1rem;
+}
+
+
+.property-footer span {
+    background-color: rgba(177, 177, 177, 0.471);
+    padding: 0 .6rem;
+    border-radius: 10px;
+}

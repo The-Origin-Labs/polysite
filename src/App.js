@@ -10,6 +10,7 @@ function App() {
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/listing' element={<Listing />} />
+        <Route path='/listing/:slug' element={<Listing />} />
         <Route path='/profile/:profileid' element={<Profile />} />
         <Route path='*' element={<NotFound />} />
       </Routes>

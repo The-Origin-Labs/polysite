@@ -1,0 +1,23 @@
+.listing-page {
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+    height: 20rem;
+}
+
+.listing-search-header {
+    display: flex;
+    justify-content: center;
+    padding: 5rem 0;
+    width: 50rem;
+    height: 20rem;
+}
+
+.listed-properties {
+    position: relative;
+    margin-top: -5rem;
+    display: flex;
+    justify-content: center;
+    width: 60rem;
+    flex-wrap: wrap;
+}
