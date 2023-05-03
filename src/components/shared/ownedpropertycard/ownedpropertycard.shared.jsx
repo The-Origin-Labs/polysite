@@ -30,7 +30,7 @@ const OwnedpropertyCard = () => {
           <p>From</p>
           <span>0xFcf51wa...........saGa</span>
           <p>→</p>
-          <span>0xFcf51wa...........saGa</span>
+          <span>0xFf211r7...........11A2</span>
         </div>
         <button className='sell-button'>Sell</button>
       </div>
