@@ -7,14 +7,13 @@ import SERVICEDATA from '../../components/content/service.json';
 const Home = () => {
   return (
     <div className='home-page'>
-      <div className="hero-section">
-        <Hero />
-      </div>
+      <div className="hero-section"></div>
+      <Hero /> 
 
       <div className="featured-section">
         <div>
           <div className='service-header'>
-            <h1>Services offered by <span>Polyroots</span></h1>
+            <h1>Services offered by <span>Landate</span></h1>
           </div>
           <div className="services-offered">
             {SERVICEDATA.map((data) => (
