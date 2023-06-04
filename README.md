@@ -11,15 +11,14 @@
 ├── src
 │   ├── app
 │   ├── components
-│   │  ├── pages — # React components that are being used specifically on a certain page
 │   │  └── shared — # React components that are being used across the whole website
 │   ├── hooks
+│   ├──pages — # React components that are being used specifically on a certain page
 │   ├── icons
-│   ├── images
-│   ├── lib
-│   ├── scripts
+│   ├── config - # configuration to HTTP request to backend
+│   ├── assets
 │   ├── utils
-│   ├── App.js
+│   ├── App.js - # Entrypoint to Client App
 │   └── index.js
 └── package.json
 ```
