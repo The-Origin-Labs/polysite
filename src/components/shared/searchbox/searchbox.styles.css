@@ -12,9 +12,14 @@
     width: 5rem;
     text-align: center;
     padding: .2rem 1rem;
+    cursor: pointer;
 }
 
-.buy-tab {
+/* .buy-tab {
+    background-color: white;
+} */
+
+.selected {
     background-color: orange;
 }
 
@@ -43,6 +48,12 @@
     font-family: 'Poppins', sans-serif;
     color: white;
     font-size: 1.1rem;
+    cursor: pointer;
+    transition: all .5s;
+}
+
+.search-property:active{
+    transform: scale(0.8);
 }
 
 .search-act {

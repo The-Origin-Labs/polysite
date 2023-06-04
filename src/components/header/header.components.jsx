@@ -12,7 +12,7 @@ const Header = () => {
         <div className='header'>
             <div className="header-left" onClick={() => HandleLogoNav()}>
                 <img src={LOGO} alt="" />
-                <h2 className='logo-title'>Polyroots</h2>
+                <h2 className='logo-title'>Landate</h2>
             </div>
             <div className="header-right">
                 <ul>
