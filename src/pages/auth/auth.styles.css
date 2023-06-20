@@ -1,0 +1,107 @@
+.auth-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.login-container {
+    margin-top: 10rem;
+    width: 25rem;
+    padding: 2rem 2rem 4rem 2rem;
+    background-color: #fff6e27e;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+
+.wallet-login-btn {
+    font-family: "Poppins", sans-serif;
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+    cursor: pointer;
+    border: 3px solid;
+    padding: 0.25em 2rem;
+    box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+    position: relative;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    font-size: 1rem;
+    width: 100%;
+}
+
+.wallet-login-btn:active {
+    box-shadow: 0px 0px 0px 0px;
+    top: 5px;
+    left: 5px;
+}
+
+.simple-login-input {
+    width: 100%;
+    color: rgb(36, 35, 42);
+    font-size: 16px;
+    line-height: 20px;
+    min-height: 28px;
+    border-radius: 4px;
+    padding: 8px 16px;
+    border: 2px solid transparent;
+    box-shadow: rgb(0 0 0 / 12%) 0px 1px 3px, rgb(0 0 0 / 24%) 0px 1px 2px;
+    background: #fff6e27e;
+    transition: all 0.1s ease 0s;
+    font-family: "Poppins", sans-serif;
+    margin: .5rem 0;
+}
+
+.simple-login-input:focus{
+    border: 2px solid rgb(0, 0, 0);
+    background: #ffffff7e;
+}
+
+.simple-login-btn {
+    font-family: "Poppins", sans-serif;
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+    cursor: pointer;
+    border: 3px solid;
+    padding: 0.25em 2rem;
+    box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+    position: relative;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    font-size: 1rem;
+    width: 100%;
+    margin: 1rem 0;
+}
+
+.simple-login-btn:active {
+    box-shadow: 0px 0px 0px 0px;
+    top: 5px;
+    left: 5px;
+}
+
+.forgot-pw-action {
+    text-align: right;
+}
+
+.forgot-password {
+    color: #3a3a3a;
+    text-decoration: none;
+}
+
+.forgot-password:hover {
+    text-decoration: underline;
+}
