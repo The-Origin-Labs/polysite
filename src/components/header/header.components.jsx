@@ -5,6 +5,11 @@ import './header.styles.css';
 
 const Header = () => {
     const navigate = useNavigate();
+
+    const HandleLogin = () => {
+        return navigate("/auth")
+    }
+
     const HandleLogoNav = () => {
         return navigate("/")
     }
@@ -42,7 +47,7 @@ const Header = () => {
                         </Link>
                     </li>
                     <li>
-                        <button className='header-login'>
+                        <button className='header-login' onClick={HandleLogin}>
                             Log In
                         </button>
                     </li>
