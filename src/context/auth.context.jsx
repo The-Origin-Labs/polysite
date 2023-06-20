@@ -8,7 +8,7 @@ const AuthProvider = ({ children }) => {
     const [account, setAccount] = useState(null)
 
     useEffect(() => {
-        if (typeof window.ethereum !== undefined) {
+        if (window.ethereum !== undefined) {
             setIsWalletInstalled(true)
         }
     }, [])
@@ -25,7 +25,7 @@ const AuthProvider = ({ children }) => {
     }
 
     const walletLogout = async () => {
-        if (typeof window.ethereum !== undefined) {
+        if (window.ethereum !== undefined) {
             await window.ethereum.request({
                 method: "eth_requestAccounts",
                 params: [{eth_accounts: {}}]

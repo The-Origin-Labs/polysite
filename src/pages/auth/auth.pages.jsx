@@ -5,7 +5,7 @@ import { LOGO } from '../../assets';
 const Auth = () => {
   const {
     isAuthenticated,
-    isWalletInstalled,
+    // isWalletInstalled,
     account,
     walletLogin,
     walletLogout
