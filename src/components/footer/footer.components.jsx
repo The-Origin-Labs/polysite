@@ -11,7 +11,7 @@ const Footer = () => {
                 <h2 className='footer-logo-title'>Landate</h2>
             </div>
             <div className="footer-right">
-                <a href="/">
+                <a href="https://github.com/The-Origin-Labs/landate" target='__blank'>
                     <img className='git-logo' src={GITHUB} alt="" />
                 </a>
             </div>
