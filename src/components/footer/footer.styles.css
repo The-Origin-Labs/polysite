@@ -1,0 +1,34 @@
+.footer {
+    padding: 1rem 2rem;
+    margin-top: 4rem;
+}
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-logo {
+    height: 3rem;
+}
+
+.footer-logo-title {
+    font-weight: 500;
+    font-size: 1.2rem;
+    margin-top: -.8rem;
+}
+
+.git-logo {
+    height: 2rem;
+}
+
+.hr-line {
+    width: 100%;
+    height: 2px;
+    background-color: rgb(174, 174, 174);
+}
+
+.footer-container-2 {
+    display: flex;
+    justify-content: space-between;
+}
