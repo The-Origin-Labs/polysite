@@ -1,4 +1,4 @@
-import React, { useContext } from 'react'
+import React, { useContext, useEffect } from 'react'
 import { AuthContext } from '../../context/auth.context'
 import './auth.styles.css';
 import { LOGO } from '../../assets';

@@ -1,15 +1,19 @@
-.listing-page {
+.listing-page-bg {
+    background-color: antiquewhite;
+    height: 25rem;
+}
+.listing-container {
     display: flex;
     justify-content: center;
-    background-color: antiquewhite;
-    height: 20rem;
+    position: relative;
+    margin-top: -25rem;
 }
 
 .listing-search-header {
     display: flex;
     justify-content: center;
     padding: 5rem 0;
-    width: 50rem;
+    /* width: 50rem; */
     height: 20rem;
 }
 

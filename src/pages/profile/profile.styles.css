@@ -1,8 +1,15 @@
-.profile-page {
+.profile-page-bg{
     background-color: antiquewhite;
     height: 20rem;
+    /* width: 100%; */
+}
+
+.profile-page-container {
+    position: relative;
     display: flex;
     justify-content: center;
+    flex-direction: column;
+    margin-top: -20rem;
 }
 
 .profile-image {

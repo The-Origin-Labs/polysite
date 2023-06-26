@@ -6,7 +6,8 @@ const Profile = () => {
   const { profileid } = useParams();
   return (
     <div className='profile-page'>
-      <div>
+      <div className="profile-page-bg"></div>
+      <div className="profile-page-container">
         <div className="profile-header">
           <img className='profile-image' src={"https://images.unsplash.com/photo-1499996860823-5214fcc65f8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cmFuZG9tJTIwcGVyc29ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"} alt="" />
           <div className="profile-content-container">
@@ -39,6 +40,8 @@ const Profile = () => {
           <OwnershipCard/>  
         </div>
       </div>        
+      <div>
+      </div>
     </div>
   )
 }
