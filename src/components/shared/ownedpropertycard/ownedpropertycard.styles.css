@@ -1,15 +1,23 @@
 
 .owned-property-card {
-    background-color: rgb(241, 239, 239);
+    /* background-color: rgb(241, 239, 239); */
+    border: 2px solid rgb(125, 125, 125);
     padding: 1rem;
     border-radius: 10px;
     transition: all .5s;
     margin: 1rem 0;
+    width: 70rem;
 }
 
 .owned-property-card:hover {
-    background-color: rgb(225, 225, 225);
+    background-color: rgb(249, 248, 248);
+    cursor: pointer;
+    transform: scale(1.02);
+}
 
+.txn span:hover {
+    color: rgb(52, 100, 245);
+    text-decoration: underline;
 }
 
 .property-header {
@@ -26,8 +34,13 @@
 }
 
 .prop-header-title h1 {
-    line-height: 1.5rem;
+    line-height: 1.2rem;
+    font-size: 1.5rem;
     font-weight: 400;
+}
+
+.prop-header-title p {
+    color: rgb(109, 109, 109);
 }
 
 .property-actions button {
@@ -35,7 +48,10 @@
     padding: .2rem 1rem;
     cursor: pointer;
     font-family: 'Poppins', sans-serif;
-
+    background-color: transparent;
+    border: 1px solid black;
+    outline: none;
+    border-radius: 5px;
 }
 
 .owned-market-price {
@@ -92,7 +108,7 @@
 
 
 .property-footer span {
-    background-color: rgba(177, 177, 177, 0.471);
+    background-color: rgba(227, 227, 227, 0.471);
     padding: 0 .6rem;
     border-radius: 10px;
 }

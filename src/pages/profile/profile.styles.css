@@ -82,6 +82,11 @@
     color: rgb(62, 61, 61);
 }
 
+.owned-prop-container {
+    display: flex;
+    justify-content: center;
+}
+
 .owned-properties {
     margin-top: 5rem;
 }

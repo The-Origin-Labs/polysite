@@ -34,10 +34,12 @@ const Profile = () => {
         </div>
 
         {/* Properties Owned */}
-        <div className="owned-properties">
-          <OwnershipCard/>  
-          <OwnershipCard/>  
-          <OwnershipCard/>  
+        <div className="owned-prop-container">
+          <div className="owned-properties">
+            <OwnershipCard/>  
+            <OwnershipCard/>  
+            <OwnershipCard/>  
+          </div>
         </div>
       </div>        
       <div>

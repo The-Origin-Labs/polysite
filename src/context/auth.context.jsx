@@ -8,11 +8,6 @@ const AuthProvider = ({ children }) => {
     const [isWalletInstalled, setIsWalletInstalled] = useState(false)
     const [account, setAccount] = useState(null)
 
-
-
-
-
-
     useEffect(() => {
         if (window.ethereum !== undefined) {
             setIsWalletInstalled(true)

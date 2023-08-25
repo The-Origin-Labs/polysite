@@ -22,11 +22,11 @@ const OwnedpropertyCard = () => {
         </div>
       </div>
       <div className="property-footer">
-        <div className="tx-id">
+        <div className="tx-id txn">
           <p>Transaction Id</p>
           <span>0xFcf51wa...........saGa</span>
         </div>
-        <div className="tx-process-info">
+        <div className="tx-process-info txn">
           <p>From</p>
           <span>0xFcf51wa...........saGa</span>
           <p>→</p>
