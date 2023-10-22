@@ -1,8 +1,44 @@
-import React from 'react'
+import React from 'react';
+
+// Internal
 import { Hero } from '../../components'
 import './home.styles.css';
 import Servicecard from '../../components/shared/servicecard/servicecard.shared';
 import SERVICEDATA from '../../components/content/service.json';
+import Marquee from "react-fast-marquee";
+import {
+  KUBERNETES,
+  NGINX,
+  REACTIMG,
+  GOLANG,
+  REDIS,
+  PYTHON,
+  POSTGRES,
+  MONGO,
+  DOCKER,
+  AWS, JS,
+  GRAFANA,
+  PROMETHEUS,
+  CONSUL, TERRAFORM
+} from '../../assets';
+
+const TECHLIST = [
+  { img: KUBERNETES },
+  { img: NGINX },
+  { img: REACTIMG },
+  { img: GOLANG },
+  { img: PYTHON },
+  { img: REDIS },
+  { img: POSTGRES },
+  { img: MONGO },
+  { img: DOCKER },
+  { img: AWS },
+  { img: JS },
+  { img: GRAFANA },
+  { img: PROMETHEUS },
+  { img: CONSUL },
+  { img: TERRAFORM },
+]
 
 const Home = () => {
   return (
@@ -17,7 +53,7 @@ const Home = () => {
           </div>
           <div className="services-offered">
             {SERVICEDATA.map((data) => (
-              <Servicecard title={data.service_title} description={data.description}/>
+              <Servicecard title={data.service_title} description={data.description} />
             ))}
           </div>
         </div>
@@ -34,6 +70,22 @@ const Home = () => {
           </div>
           <input className='waitlist-email-input trans-from-left' type="email" placeholder='Enter your email and get Lucky.' />
         </div>
+      </div>
+
+      <div className="tech-stacks-section">
+        <div className='tech-content'>
+          <div className="tech-content-container">
+            <h1>Technology we harness</h1>
+            <p>Taking advantage of technological advancements and solutions to find ways to make processes more efficient.</p>
+          </div>
+        </div>
+      </div>
+      <div className="marquee-flow">
+        <Marquee>
+          {TECHLIST.map(tech => (
+            <img src={tech.img} className='tech-icon' alt="" />
+          ))}
+        </Marquee>
       </div>
     </div>
   )
