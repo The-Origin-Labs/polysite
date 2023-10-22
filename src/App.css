@@ -1,0 +1,81 @@
+
+
+
+/* Transitions */
+
+@keyframes TransitionFromTop {
+    from {
+        opacity: 0;
+        transform: translateY(-100px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+  }
+  
+  @keyframes TransitionRight {
+    from {
+        opacity: 0;
+        transform: translateX(-100px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+  }
+  
+  @keyframes TransitionLeft {
+    from {
+        opacity: 0;
+        transform: translateX(100px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+  }
+  
+  @keyframes TransitionFromButtom {
+    from {
+        opacity: 0;
+        transform: translateY(100px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+  }
+
+    
+  @keyframes TransitionRightLess {
+    from {
+        opacity: 0;
+        transform: translateX(-50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+  }
+
+
+  .trans-from-left-less {
+    animation: TransitionRightLess 1s;
+  }
+
+  .trans-from-left {
+    animation: TransitionRight 1s;
+  }
+  
+  .trans-from-right {
+    animation: TransitionLeft 1s;
+  }
+  
+  .trans-from-buttom {
+    animation: TransitionFromButtom 1s;
+  }
+  
+  .trans-from-top {
+    animation: TransitionFromTop 1s;
+  }

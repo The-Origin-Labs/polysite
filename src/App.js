@@ -5,8 +5,13 @@ import { Home, Listing, NotFound, Profile, Auth } from './pages';
 import { AuthContext } from './context/auth.context';
 import './App.css';
 
+
+
 function App() {
   const { isAuthenticated } = useContext(AuthContext);
+
+
+
   return (
     <div className="App">
       <Header />
@@ -25,6 +30,7 @@ function App() {
           )
         }
         <Route path='/auth' element={<Auth />} />
+        <Route path='/about' element={<Auth />} />
         <Route path='*' element={<NotFound />} />
       </Routes>
       <Footer />

@@ -1,22 +1,32 @@
 [
     {
-        "service_title": "Property Valuation",
+        "service_title": "🏢 Property Valuation",
+        "delay": 0,
         "description": "Determining the market value of the property based on various factors such as location, size, condition, and demand."
     },
     {
-        "service_title": "Property Listing",
+        "service_title": "📃 Property Listing",
+        "delay": 0.5,
         "description": "Putting a property up for sale or rent."
     },
     {
-        "service_title": "Property Inspection",
+        "service_title": "🔍 Property Inspection",
+        "delay": 0.8,
         "description": "Conducting a thorough inspection of the property to identify any issues or defects that may affect its value or saleability."
     },
     {
-        "service_title": "Legal documentation",
+        "service_title": "🗂️ Legal documentation",
+        "delay": 1.2,
         "description": "Preparation and signing of various legal documents such as contracts, deeds, and lease agreements."
     },
     {
-        "service_title": "Claim property",
+        "service_title": "✅ Claim property",
+        "delay": 1.8,
         "description": "Determining the market value of the property based on various factors such as location, size, condition, and demand."
+    },
+    {
+        "service_title": "👨🏼‍⚖️ Property audit",
+        "delay": 2.2,
+        "description": "Get valuable insights by property owners, investors, and stakeholders in making informed decisions about the property."
     }
 ]

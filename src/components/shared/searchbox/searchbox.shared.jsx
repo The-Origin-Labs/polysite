@@ -8,7 +8,7 @@ const Searchbox = () => {
     setSelectedTab(tab);
   };
   return (
-    <div className='search-box'>
+    <div className='search-box trans-from-left'>
       <div className="listing-tabs">
         <div 
         className={`sell-tab tab ${selectedTab === 'sell' ? 'selected' : ''}`}

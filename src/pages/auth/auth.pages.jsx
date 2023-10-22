@@ -1,7 +1,10 @@
-import React, { useContext, useEffect } from 'react'
+import React, { useContext } from 'react';
+
+// Internal
+import { LOGO } from '../../assets';
 import { AuthContext } from '../../context/auth.context'
 import './auth.styles.css';
-import { LOGO } from '../../assets';
+
 const Auth = () => {
   const {
     isAuthenticated,
@@ -16,7 +19,7 @@ const Auth = () => {
       <div className="auth-page">
         {
           !isAuthenticated ? (
-            <div className="login-container">
+            <div className="login-container trans-from-buttom">
               <div className="login-header">
                 <img src={LOGO} alt="" />
                 <h3>Landate</h3>

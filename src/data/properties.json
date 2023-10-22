@@ -1,0 +1,2252 @@
+[
+  {
+    "id": "0115ed08-e418-4e13-a677-d55b791079c6",
+    "propertyName": "Skiles Forge",
+    "location": "Gresham",
+    "owner": "Jett",
+    "walletAddress": "34bPSFUZigPkwXqtj4bgAgPpg2nYrwfE7",
+    "currentPrice": "25643.79",
+    "sellingPrice": "13726.38",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/Tzww7U/640/480",
+      "https://picsum.photos/seed/T6trJ/640/480",
+      "https://picsum.photos/seed/djW9C2/640/480"
+    ]
+  },
+  {
+    "id": "33c87e10-6a1e-4fda-9296-1008aaac08b7",
+    "propertyName": "Alexandra Ridge",
+    "location": "South Amaniview",
+    "owner": "Kelton",
+    "walletAddress": "1vGQZPjxQNgniWw6umTMPLzV55XwkvFbnXe7QDBn",
+    "currentPrice": "40641.25",
+    "sellingPrice": "42110.26",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=2827391686672384",
+      "https://picsum.photos/seed/w17XjYY1iF/640/480",
+      "https://loremflickr.com/640/480?lock=6053339995308032"
+    ]
+  },
+  {
+    "id": "933b47cf-5275-4297-b9e5-825f94500703",
+    "propertyName": "Birch Road",
+    "location": "Anitatown",
+    "owner": "Tressie",
+    "walletAddress": "1K8AbVwrfJ4D18QExymQ4ZSxibBmM8BTuVjCgH",
+    "currentPrice": "68524.08",
+    "sellingPrice": "34832.64",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=8693445205950464",
+      "https://picsum.photos/seed/ADXKVNePHX/640/480",
+      "https://loremflickr.com/640/480?lock=6661900517507072"
+    ]
+  },
+  {
+    "id": "a7b5670c-1b27-43dc-a838-10d4dc9aaca1",
+    "propertyName": "Beech Close",
+    "location": "East Donato",
+    "owner": "Judd",
+    "walletAddress": "3fnALgNuz5ukY7ozUjDErpScqKp1at1nLw6x34",
+    "currentPrice": "49832.70",
+    "sellingPrice": "79914.68",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/CkY9E9/640/480",
+      "https://loremflickr.com/640/480?lock=4735234245394432",
+      "https://picsum.photos/seed/GdrG4uI/640/480"
+    ]
+  },
+  {
+    "id": "8cdcf562-44a5-435f-b0bf-5bd60aa443c4",
+    "propertyName": "Wilderman Prairie",
+    "location": "Ceres",
+    "owner": "Norbert",
+    "walletAddress": "1osGauiV1vtAnHEqWHxVYs2TJq8r",
+    "currentPrice": "6808.92",
+    "sellingPrice": "46364.85",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=2908685277855744",
+      "https://picsum.photos/seed/bLumibDixQ/640/480",
+      "https://picsum.photos/seed/Coe8uc3/640/480"
+    ]
+  },
+  {
+    "id": "dcf58a63-3b10-4d05-a8e0-466f5f210153",
+    "propertyName": "Woodside",
+    "location": "Vickiechester",
+    "owner": "Hanna",
+    "walletAddress": "1gZgi2PZoi3MqffFsx2xeNtcaGs",
+    "currentPrice": "51228.99",
+    "sellingPrice": "79501.42",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=844066403123200",
+      "https://loremflickr.com/640/480?lock=6723332435083264",
+      "https://loremflickr.com/640/480?lock=5772177018191872"
+    ]
+  },
+  {
+    "id": "d4cba0ab-67e0-41b6-924e-b69b5fbd5e58",
+    "propertyName": "Crona Canyon",
+    "location": "Fisherview",
+    "owner": "Rickie",
+    "walletAddress": "1q5DyhsPPTYPMGejo6FwdgooTjbHmhb9aUnk58",
+    "currentPrice": "90095.02",
+    "sellingPrice": "20716.96",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/5Ny9Uc4/640/480",
+      "https://loremflickr.com/640/480?lock=4586441677996032",
+      "https://loremflickr.com/640/480?lock=550517031829504"
+    ]
+  },
+  {
+    "id": "08d9449a-7b2c-4c14-b339-27432c05ef15",
+    "propertyName": "Karlie Branch",
+    "location": "Amaricester",
+    "owner": "Miller",
+    "walletAddress": "1DgEZpLGEGtEwu3k7gnSSN7mQEc3A7hETe",
+    "currentPrice": "26253.16",
+    "sellingPrice": "18180.92",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/RkY12/640/480",
+      "https://loremflickr.com/640/480?lock=3903546414071808",
+      "https://picsum.photos/seed/7NJTPAa/640/480"
+    ]
+  },
+  {
+    "id": "68e24ee3-5d97-4d37-8376-cb0e8fd85fcb",
+    "propertyName": "Rod Wall",
+    "location": "West Jaquelineland",
+    "owner": "Chris",
+    "walletAddress": "1qzKKHWXwMM2msTBGFYfc3hUwRCZpx",
+    "currentPrice": "63144.47",
+    "sellingPrice": "31801.36",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/AjgajnCgb6/640/480",
+      "https://loremflickr.com/640/480?lock=5850560605454336",
+      "https://picsum.photos/seed/7INhmG/640/480"
+    ]
+  },
+  {
+    "id": "b1df84cf-d9d4-4050-8f6b-4895c85a9a02",
+    "propertyName": "Talbot Road",
+    "location": "Lemkeland",
+    "owner": "Morton",
+    "walletAddress": "3p8TSC2Ew9MCLzyv6TFpJ3xLHF",
+    "currentPrice": "12113.78",
+    "sellingPrice": "89829.94",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/6Iag6v/640/480",
+      "https://loremflickr.com/640/480?lock=5890938415087616",
+      "https://loremflickr.com/640/480?lock=6471592697659392"
+    ]
+  },
+  {
+    "id": "7fc9eb46-64fc-4c6e-8c4c-b336a979f1c0",
+    "propertyName": "Heaney Springs",
+    "location": "Cleveland Heights",
+    "owner": "Jordi",
+    "walletAddress": "37sBzduube9eixNdABfSASahQ6jMcwF8",
+    "currentPrice": "24479.84",
+    "sellingPrice": "49420.19",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=6062299980759040",
+      "https://picsum.photos/seed/iYRqnf11Ss/640/480",
+      "https://loremflickr.com/640/480?lock=3028054848831488"
+    ]
+  },
+  {
+    "id": "5fdbef45-a9e9-4881-b214-1000f620985b",
+    "propertyName": "W High Street",
+    "location": "Rochester Hills",
+    "owner": "Desmond",
+    "walletAddress": "1Ln7GQCXo8BNvBEbziZNtwbwxmkPjSx5A",
+    "currentPrice": "86316.10",
+    "sellingPrice": "67067.79",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=3678593945174016",
+      "https://picsum.photos/seed/SYdof45/640/480",
+      "https://loremflickr.com/640/480?lock=3146145853341696"
+    ]
+  },
+  {
+    "id": "2c806d9d-1b82-4ab3-8c4a-ab1be7b0c666",
+    "propertyName": "Grove Road",
+    "location": "Paucekborough",
+    "owner": "Rasheed",
+    "walletAddress": "1YAiuREkckLpmecuUyUC74V4LE38K9rcEmjZvGD",
+    "currentPrice": "83121.49",
+    "sellingPrice": "90894.07",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/9e1OBl/640/480",
+      "https://picsum.photos/seed/O2FmZBJo/640/480",
+      "https://picsum.photos/seed/DdQPPl4/640/480"
+    ]
+  },
+  {
+    "id": "b0376fbb-f89e-4c4a-ac9d-83a5a9238547",
+    "propertyName": "Smith Drive",
+    "location": "Khalilshire",
+    "owner": "Moshe",
+    "walletAddress": "3NDRTR8q7fFbkZtUdpRyYb5zJs4",
+    "currentPrice": "94038.10",
+    "sellingPrice": "84017.95",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/x49iH0FjU/640/480",
+      "https://loremflickr.com/640/480?lock=6414757475123200",
+      "https://picsum.photos/seed/r2RBUK9M/640/480"
+    ]
+  },
+  {
+    "id": "43491b20-945d-4615-ac5a-7b381e3220d7",
+    "propertyName": "The Woodlands",
+    "location": "Canton",
+    "owner": "Pattie",
+    "walletAddress": "3yvW2Xx9GmDruz9Z89E83KnG5P",
+    "currentPrice": "39501.51",
+    "sellingPrice": "13737.71",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=8513620373667840",
+      "https://loremflickr.com/640/480?lock=4013627096956928",
+      "https://loremflickr.com/640/480?lock=3775158791700480"
+    ]
+  },
+  {
+    "id": "e141a748-7175-49e9-8059-4ea334bce7ed",
+    "propertyName": "Stanley Road",
+    "location": "Lubowitzfurt",
+    "owner": "Florence",
+    "walletAddress": "3AG9Np3TtUSd5rzVZ1mAqXwj9Xd8uV",
+    "currentPrice": "63980.10",
+    "sellingPrice": "47411.33",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=226606249410560",
+      "https://picsum.photos/seed/ICgSHh/640/480",
+      "https://loremflickr.com/640/480?lock=2354249778331648"
+    ]
+  },
+  {
+    "id": "542590ff-b639-42de-9893-2291bd7bedd0",
+    "propertyName": "Corwin Summit",
+    "location": "Schinnerchester",
+    "owner": "Myles",
+    "walletAddress": "1pxgtG8VJhtwofK2Ds6qyeS9XJdV",
+    "currentPrice": "52616.00",
+    "sellingPrice": "68957.90",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/CcEL9KhM/640/480",
+      "https://picsum.photos/seed/p0JuTk/640/480",
+      "https://loremflickr.com/640/480?lock=2772909112164352"
+    ]
+  },
+  {
+    "id": "7ed15df1-a5b1-4208-9fc2-30e2a9186a61",
+    "propertyName": "King Stravenue",
+    "location": "Fort Domenick",
+    "owner": "Hellen",
+    "walletAddress": "1VyQFmFLwBU77fn41eVt7c1uE7LJPYD",
+    "currentPrice": "47617.79",
+    "sellingPrice": "11222.73",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=4818962265145344",
+      "https://picsum.photos/seed/GjLCSF0pcU/640/480",
+      "https://picsum.photos/seed/cyyV3sC/640/480"
+    ]
+  },
+  {
+    "id": "b8acac65-f5de-4f41-a966-20849f206e90",
+    "propertyName": "Ladarius Dam",
+    "location": "Fort Adamfort",
+    "owner": "Josianne",
+    "walletAddress": "1cv4oxz9fDE1oDcFHvZeTJ31gVMKXSe",
+    "currentPrice": "5775.57",
+    "sellingPrice": "8666.39",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/YcHpNui/640/480",
+      "https://loremflickr.com/640/480?lock=8009054077059072",
+      "https://loremflickr.com/640/480?lock=8509115548565504"
+    ]
+  },
+  {
+    "id": "fe7de68a-8259-43fc-bd3c-08b452437f2d",
+    "propertyName": "Robbie Flat",
+    "location": "Jacksonville",
+    "owner": "Floy",
+    "walletAddress": "3LnHLxpsRiwzY3oJ3AzAVNwb6dSa9i4igN",
+    "currentPrice": "4831.20",
+    "sellingPrice": "60259.03",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/LNT7dVpPk/640/480",
+      "https://picsum.photos/seed/HSt42B/640/480",
+      "https://picsum.photos/seed/KtFWsT/640/480"
+    ]
+  },
+  {
+    "id": "e25ce773-b839-4d35-8742-655749e794e1",
+    "propertyName": "Elyssa Dam",
+    "location": "Larontown",
+    "owner": "Name",
+    "walletAddress": "1Xaca7WXcbkfp23eKvbixw3HCcSCK",
+    "currentPrice": "80443.91",
+    "sellingPrice": "80059.01",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=6150384974299136",
+      "https://picsum.photos/seed/0UZJhn/640/480",
+      "https://loremflickr.com/640/480?lock=2060187751940096"
+    ]
+  },
+  {
+    "id": "03281ca1-b0d6-493b-9962-5796ecdcbce3",
+    "propertyName": "Jadyn Cliff",
+    "location": "Thompsonport",
+    "owner": "Gerda",
+    "walletAddress": "3dNGmtz44BnDDJCGDYadNioj3PGDrW1YHeoN6PXA",
+    "currentPrice": "94094.89",
+    "sellingPrice": "71716.31",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/UuURcMCG7o/640/480",
+      "https://loremflickr.com/640/480?lock=4035176342487040",
+      "https://picsum.photos/seed/KEtVOJRnq/640/480"
+    ]
+  },
+  {
+    "id": "a056b4b3-61a7-4e53-ab98-4010abd08079",
+    "propertyName": "S Pine Street",
+    "location": "Gerlachchester",
+    "owner": "Fern",
+    "walletAddress": "3NFJ9zikmb78mMsM8nZvihyGtEoCukVu8Fb",
+    "currentPrice": "76566.34",
+    "sellingPrice": "21073.55",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=348670149001216",
+      "https://loremflickr.com/640/480?lock=8117809951277056",
+      "https://loremflickr.com/640/480?lock=6020089943949312"
+    ]
+  },
+  {
+    "id": "fe1d4475-c85a-4afd-95b0-6bcdff69380d",
+    "propertyName": "Darrin Throughway",
+    "location": "North Grayceport",
+    "owner": "Connor",
+    "walletAddress": "34rTeuPJG4uckcwNuapggsymXA5d787d",
+    "currentPrice": "10104.03",
+    "sellingPrice": "60508.14",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=7531356101804032",
+      "https://loremflickr.com/640/480?lock=2333933553319936",
+      "https://picsum.photos/seed/7JLUWr2/640/480"
+    ]
+  },
+  {
+    "id": "b59d7aef-2a59-46db-8d12-87df300bc636",
+    "propertyName": "Schmitt Loop",
+    "location": "Homenickworth",
+    "owner": "Lavina",
+    "walletAddress": "3h3VJe3LpEcDVXnqUM5Rg5taf7oihA",
+    "currentPrice": "60210.40",
+    "sellingPrice": "48251.67",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/H17yLJ/640/480",
+      "https://picsum.photos/seed/5NDAF/640/480",
+      "https://picsum.photos/seed/EKhFS3eyr7/640/480"
+    ]
+  },
+  {
+    "id": "e5cd510e-e407-493d-a7bd-53a4274f3334",
+    "propertyName": "Greenfelder Roads",
+    "location": "Lake Tadborough",
+    "owner": "Ardella",
+    "walletAddress": "3whzcs755n3Zfd2ohngr8UUDra1",
+    "currentPrice": "52649.52",
+    "sellingPrice": "57348.64",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/0eKET/640/480",
+      "https://picsum.photos/seed/vnQU1xZ/640/480",
+      "https://picsum.photos/seed/tztZ0zVqtO/640/480"
+    ]
+  },
+  {
+    "id": "a6fa38d0-7974-4b46-8a47-ec6479c5baef",
+    "propertyName": "Madge Meadow",
+    "location": "South Felixhaven",
+    "owner": "Fermin",
+    "walletAddress": "3zkQFsseV7q5Ws1x9zs5sRG4zej96ajWECps",
+    "currentPrice": "38900.94",
+    "sellingPrice": "11122.62",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/4X6XoG4pPK/640/480",
+      "https://picsum.photos/seed/vrQsfJUg/640/480",
+      "https://picsum.photos/seed/zEPiP5jd/640/480"
+    ]
+  },
+  {
+    "id": "acce5a3d-1285-43a1-85f5-0a05c18182cd",
+    "propertyName": "Pansy Branch",
+    "location": "Imeldafurt",
+    "owner": "Faustino",
+    "walletAddress": "3WK61bnryJg9zbPrGeGjH2FpLkF7TvQm",
+    "currentPrice": "59297.23",
+    "sellingPrice": "61350.53",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/VZYbVN/640/480",
+      "https://picsum.photos/seed/AmkE6/640/480",
+      "https://loremflickr.com/640/480?lock=2094074374914048"
+    ]
+  },
+  {
+    "id": "a87afc30-7616-4c18-982c-b0495d085918",
+    "propertyName": "Gussie Green",
+    "location": "Cordeliastead",
+    "owner": "Emilie",
+    "walletAddress": "3Sn432oMXMrJ1bFjvG7qruodxBEb6WGCgpDwWe",
+    "currentPrice": "68269.33",
+    "sellingPrice": "75934.51",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/p0UDUc/640/480",
+      "https://loremflickr.com/640/480?lock=3355866549977088",
+      "https://loremflickr.com/640/480?lock=690124086050816"
+    ]
+  },
+  {
+    "id": "da8d87f6-10cf-44a8-baf5-487eb7af7216",
+    "propertyName": "Poplar Avenue",
+    "location": "O'Haraland",
+    "owner": "Hans",
+    "walletAddress": "1p1nkbCaMHg7sExArWbR8Mtb7dF",
+    "currentPrice": "68774.25",
+    "sellingPrice": "17729.32",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=2292343235411968",
+      "https://loremflickr.com/640/480?lock=5383762602885120",
+      "https://picsum.photos/seed/udBJrWH3h/640/480"
+    ]
+  },
+  {
+    "id": "c45e35b4-9230-4bac-8618-7bfb52d1dec7",
+    "propertyName": "St Andrew's Road",
+    "location": "Harberstad",
+    "owner": "Lucienne",
+    "walletAddress": "1UwiKPVgfDXL2BpARhvtkgd8m8TDqA7V",
+    "currentPrice": "65915.09",
+    "sellingPrice": "41000.63",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/tGUUtXz/640/480",
+      "https://loremflickr.com/640/480?lock=8195866470907904",
+      "https://loremflickr.com/640/480?lock=689021390946304"
+    ]
+  },
+  {
+    "id": "7ed7bead-b878-483f-8427-a93223448d74",
+    "propertyName": "Shannon Branch",
+    "location": "Tonawanda",
+    "owner": "Muriel",
+    "walletAddress": "3tDwBax4uToJUDYUUiRuw6NnUKgN4Zz8qrtyEi",
+    "currentPrice": "34809.84",
+    "sellingPrice": "10106.16",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=6443282787729408",
+      "https://loremflickr.com/640/480?lock=8692719427780608",
+      "https://loremflickr.com/640/480?lock=2237367324770304"
+    ]
+  },
+  {
+    "id": "62ae6671-9386-420a-b0f9-b57424377089",
+    "propertyName": "Castle Close",
+    "location": "Virginiatown",
+    "owner": "Dorian",
+    "walletAddress": "3GxpYsLWkXZy2cnjHZMRGA3X87NcA",
+    "currentPrice": "37191.77",
+    "sellingPrice": "37629.09",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/K2RHasU2dI/640/480",
+      "https://picsum.photos/seed/7dKVRAcgi/640/480",
+      "https://picsum.photos/seed/anXMHHoNp/640/480"
+    ]
+  },
+  {
+    "id": "9c0886cc-6065-4ef5-bb0a-184e816283b9",
+    "propertyName": "Bell Lane",
+    "location": "Amandacester",
+    "owner": "Kyler",
+    "walletAddress": "3PHiLMUGZzVKEgY9S3JQYBCtQKvCByVmd5vG5YVi",
+    "currentPrice": "15384.79",
+    "sellingPrice": "41986.97",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/XmmaGDni/640/480",
+      "https://picsum.photos/seed/GmxzVTO/640/480",
+      "https://picsum.photos/seed/fDFuqe/640/480"
+    ]
+  },
+  {
+    "id": "ea735250-786e-44f7-b1e5-b73f6e324235",
+    "propertyName": "Botsford Motorway",
+    "location": "Lysannefield",
+    "owner": "Sidney",
+    "walletAddress": "3JdC9YGbHaBhk8Vmf1qvQjkuU69Pqo5nwbzT",
+    "currentPrice": "26230.57",
+    "sellingPrice": "41372.42",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=1605940797243392",
+      "https://picsum.photos/seed/puIdISZVM/640/480",
+      "https://picsum.photos/seed/VhOnKC/640/480"
+    ]
+  },
+  {
+    "id": "d5d8555a-1a02-482f-9287-13a83b973365",
+    "propertyName": "Claremont Road",
+    "location": "West Ansleybury",
+    "owner": "Noelia",
+    "walletAddress": "1VwdKEUHYYoj6ps2vGhmktMfwQN9y",
+    "currentPrice": "95150.12",
+    "sellingPrice": "79137.59",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/y2JV2k0/640/480",
+      "https://picsum.photos/seed/R5ilIsSyV8/640/480",
+      "https://loremflickr.com/640/480?lock=333181555310592"
+    ]
+  },
+  {
+    "id": "816f95b4-bf83-423e-8f42-5e4acc583138",
+    "propertyName": "Zoe Terrace",
+    "location": "Weberberg",
+    "owner": "Brice",
+    "walletAddress": "1TtntUTNDBdW48Tg6rTgA4JEhCcwHG8c6CQr",
+    "currentPrice": "31198.79",
+    "sellingPrice": "32350.31",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=1858796066439168",
+      "https://loremflickr.com/640/480?lock=851996036825088",
+      "https://loremflickr.com/640/480?lock=8070151909933056"
+    ]
+  },
+  {
+    "id": "f13ce6d0-133d-4fd0-bf7c-267f37d03e17",
+    "propertyName": "Marge Flats",
+    "location": "Hillsville",
+    "owner": "Felicia",
+    "walletAddress": "1SNttfER5ULYuKjYBrfwNWRHw6ZGarJTdUM",
+    "currentPrice": "70426.55",
+    "sellingPrice": "62408.26",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=824624424157184",
+      "https://picsum.photos/seed/BOu5CCX/640/480",
+      "https://loremflickr.com/640/480?lock=200115367182336"
+    ]
+  },
+  {
+    "id": "0e4c313f-108a-441f-aa34-cb68624dd767",
+    "propertyName": "Arlene Bypass",
+    "location": "Ryanside",
+    "owner": "Ernie",
+    "walletAddress": "1wdKswGAB84uKYrVLeTdL4cBmmT",
+    "currentPrice": "88931.01",
+    "sellingPrice": "83596.55",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/D5z4wXm/640/480",
+      "https://picsum.photos/seed/VscsBI87I4/640/480",
+      "https://loremflickr.com/640/480?lock=5653107050545152"
+    ]
+  },
+  {
+    "id": "f9646df2-8fb2-4e57-8fd1-9881012e47d5",
+    "propertyName": "Jailyn Lake",
+    "location": "Priceport",
+    "owner": "Bridie",
+    "walletAddress": "3JE8aohssKZY5fXSAFhCv53vEzB",
+    "currentPrice": "23208.77",
+    "sellingPrice": "81954.23",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=6024552433844224",
+      "https://picsum.photos/seed/E3WwLXT6E/640/480",
+      "https://loremflickr.com/640/480?lock=7093669593088000"
+    ]
+  },
+  {
+    "id": "25d9aeb2-60bd-4a85-b09f-dc840351e8ea",
+    "propertyName": "School Close",
+    "location": "Tannerberg",
+    "owner": "Micah",
+    "walletAddress": "3mmVKKCvkV89fEHjcc395B3fiRDVTM4t6PL26XC9",
+    "currentPrice": "71643.38",
+    "sellingPrice": "27102.25",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/psGG0/640/480",
+      "https://picsum.photos/seed/uyMhf/640/480",
+      "https://picsum.photos/seed/49xWk/640/480"
+    ]
+  },
+  {
+    "id": "556d53fd-891b-4875-91ee-0eccee28c29c",
+    "propertyName": "Ayana Rapid",
+    "location": "New Arneland",
+    "owner": "Adrianna",
+    "walletAddress": "3SBxcpXuBhqs6M26m5jupdxC6dDyHZjGbjBVn",
+    "currentPrice": "18893.96",
+    "sellingPrice": "61426.12",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/ngpQVAxJ/640/480",
+      "https://loremflickr.com/640/480?lock=8709697964081152",
+      "https://loremflickr.com/640/480?lock=467574244507648"
+    ]
+  },
+  {
+    "id": "25a561bb-6397-4407-a0bf-42bd29f9d82d",
+    "propertyName": "Fatima Valley",
+    "location": "East Camryn",
+    "owner": "Giovanna",
+    "walletAddress": "3XxvjKg4AcMdKPVhtsgFzMEXJdCZJwfq1y",
+    "currentPrice": "6472.25",
+    "sellingPrice": "72945.31",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/GiUoKWCk/640/480",
+      "https://picsum.photos/seed/J0S1FE1/640/480",
+      "https://loremflickr.com/640/480?lock=8937689267044352"
+    ]
+  },
+  {
+    "id": "bddb77bd-9238-469b-a32f-a88d79b95aa4",
+    "propertyName": "Senger Route",
+    "location": "Santa Rosa",
+    "owner": "Yolanda",
+    "walletAddress": "3maFaB11qM6EMoGDiGHt51TR2KPkhyiecuxH",
+    "currentPrice": "65886.23",
+    "sellingPrice": "84044.42",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=1913067524849664",
+      "https://picsum.photos/seed/dukXppcZB7/640/480",
+      "https://loremflickr.com/640/480?lock=6571290508918784"
+    ]
+  },
+  {
+    "id": "06e7ee7a-ee0c-4a45-9a63-2fd9d82bf3ad",
+    "propertyName": "Iva Rapid",
+    "location": "East Hartford",
+    "owner": "Erik",
+    "walletAddress": "1nwjTQTge7EFqPdoAmex9VG1hT7DBQeUmiKSAgZk",
+    "currentPrice": "64586.45",
+    "sellingPrice": "21443.70",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/Mh7iuvwk/640/480",
+      "https://picsum.photos/seed/p84bP5YQl/640/480",
+      "https://picsum.photos/seed/Bn3VHSIOe1/640/480"
+    ]
+  },
+  {
+    "id": "f3f3a95e-edca-458f-9d51-b511d20b83f4",
+    "propertyName": "Schimmel Plaza",
+    "location": "Jacobiview",
+    "owner": "Name",
+    "walletAddress": "1zGN3YicfrH3EhoVMwbtWTv5Wo",
+    "currentPrice": "31847.40",
+    "sellingPrice": "54118.30",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/1GWohwq/640/480",
+      "https://picsum.photos/seed/l1ldz6yH/640/480",
+      "https://picsum.photos/seed/93Kxfp/640/480"
+    ]
+  },
+  {
+    "id": "5ea8cf80-fec8-42b7-95b0-9e3f7c46a23d",
+    "propertyName": "Haley Forest",
+    "location": "Mabelberg",
+    "owner": "Kylee",
+    "walletAddress": "3D2rXQ6habtiF6nPyZLCn7yJQAFa6H",
+    "currentPrice": "55084.24",
+    "sellingPrice": "37365.30",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/ohztm/640/480",
+      "https://picsum.photos/seed/v85PlYwR/640/480",
+      "https://loremflickr.com/640/480?lock=7296155146780672"
+    ]
+  },
+  {
+    "id": "4bf62ac6-e8fc-4881-ae41-cfba5c5da150",
+    "propertyName": "Raymundo Keys",
+    "location": "New Haven",
+    "owner": "Raul",
+    "walletAddress": "3Y9wVm1pRxHegf1CtQu6JrVqu1aFWk",
+    "currentPrice": "16829.31",
+    "sellingPrice": "11356.80",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=2715221227470848",
+      "https://picsum.photos/seed/NwJ9bk0/640/480",
+      "https://loremflickr.com/640/480?lock=6513519606366208"
+    ]
+  },
+  {
+    "id": "b98d05b7-742a-43ef-86f9-be9c0b1344f1",
+    "propertyName": "Dibbert Fort",
+    "location": "North Neomaland",
+    "owner": "Hilma",
+    "walletAddress": "1efDaVYDqTVcZpfGrQeXcogHRYemYqh",
+    "currentPrice": "91041.11",
+    "sellingPrice": "76510.50",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=4307626070376448",
+      "https://loremflickr.com/640/480?lock=5938154641031168",
+      "https://picsum.photos/seed/oZj69/640/480"
+    ]
+  },
+  {
+    "id": "fb9883df-3818-4e3b-8b1f-43f5a6e65a11",
+    "propertyName": "Honeysuckle Close",
+    "location": "New Ritatown",
+    "owner": "Ubaldo",
+    "walletAddress": "31Vi82SCCTjofL8y42ERcBMtpvN",
+    "currentPrice": "47255.00",
+    "sellingPrice": "35617.82",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/eigRu6Mj0/640/480",
+      "https://picsum.photos/seed/I8nYD98RL/640/480",
+      "https://picsum.photos/seed/7zGuBZmXjk/640/480"
+    ]
+  },
+  {
+    "id": "dff53f34-8838-494b-bc58-4cf553b034a7",
+    "propertyName": "McClure Circles",
+    "location": "Moore",
+    "owner": "Elouise",
+    "walletAddress": "1AMKZdmwAEetkuUTE6QSGznN2dUpRJkLsjHos",
+    "currentPrice": "38839.49",
+    "sellingPrice": "2254.46",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=4949978841612288",
+      "https://loremflickr.com/640/480?lock=3570288172204032",
+      "https://loremflickr.com/640/480?lock=541006688681984"
+    ]
+  },
+  {
+    "id": "5e47179d-3a8e-491b-b94f-80c5c5eefec6",
+    "propertyName": "Lois Prairie",
+    "location": "Lake Cordia",
+    "owner": "Jada",
+    "walletAddress": "1Cv1KoG4PafKRRz8nPHVMYSRrcrTV",
+    "currentPrice": "57400.46",
+    "sellingPrice": "93691.59",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=2195644609462272",
+      "https://picsum.photos/seed/ODPCq4K/640/480",
+      "https://picsum.photos/seed/VZiO1J/640/480"
+    ]
+  },
+  {
+    "id": "794eca47-bc41-48a1-9eb1-ba1ce67f8a37",
+    "propertyName": "Hollie Ways",
+    "location": "Palatine",
+    "owner": "Lavon",
+    "walletAddress": "3g4vEXP8iq3KnfdBaCBPMRiAYLKxi9G56L",
+    "currentPrice": "45038.02",
+    "sellingPrice": "63246.63",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=6303518184964096",
+      "https://picsum.photos/seed/0mL1t/640/480",
+      "https://picsum.photos/seed/Gfxo3Gp0SI/640/480"
+    ]
+  },
+  {
+    "id": "f5591d89-dabe-4046-8289-2ffdc9ac9a60",
+    "propertyName": "Reilly Burgs",
+    "location": "Jeanieview",
+    "owner": "Abdullah",
+    "walletAddress": "1UuH3HkMf3GRTHgvWcJgQPBp2KPzc168CqKaj9M",
+    "currentPrice": "34922.39",
+    "sellingPrice": "94119.22",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=1732485268373504",
+      "https://picsum.photos/seed/bsZwY/640/480",
+      "https://loremflickr.com/640/480?lock=1045054216994816"
+    ]
+  },
+  {
+    "id": "756187da-eab5-4a22-bb32-6a926cdd9c10",
+    "propertyName": "Madalyn Mountain",
+    "location": "Lindgrenhaven",
+    "owner": "Brian",
+    "walletAddress": "3ftBCRZMe7PsBrQKmK3MnSngR71hBFEqtLa",
+    "currentPrice": "59000.53",
+    "sellingPrice": "48487.71",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=807801884508160",
+      "https://loremflickr.com/640/480?lock=5094444999114752",
+      "https://loremflickr.com/640/480?lock=8999383810965504"
+    ]
+  },
+  {
+    "id": "54fa5eb9-b912-4e09-b202-999dd319c8ae",
+    "propertyName": "Alexandra Streets",
+    "location": "Port Payton",
+    "owner": "Hellen",
+    "walletAddress": "1emMZnakReqz1X8XRAYrn6ApbiDHnbhrHfJPc",
+    "currentPrice": "54871.60",
+    "sellingPrice": "48038.51",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/rRBfL6J/640/480",
+      "https://picsum.photos/seed/o4cAT4Vd/640/480",
+      "https://loremflickr.com/640/480?lock=8461298421465088"
+    ]
+  },
+  {
+    "id": "589f0fac-04bd-4b9f-a1a8-437bf2a6c4ec",
+    "propertyName": "Woodlands Avenue",
+    "location": "East Chanel",
+    "owner": "Delpha",
+    "walletAddress": "3NpmNPZGDSL8iFH3B6dsG2jqrhc",
+    "currentPrice": "57854.84",
+    "sellingPrice": "58961.16",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=5347739116240896",
+      "https://picsum.photos/seed/uQ1bQ/640/480",
+      "https://loremflickr.com/640/480?lock=1635279054045184"
+    ]
+  },
+  {
+    "id": "a52e9eee-9a9f-410c-b30e-f4fd5b911912",
+    "propertyName": "Prospect Avenue",
+    "location": "Norwalk",
+    "owner": "Chelsie",
+    "walletAddress": "3jWpxCrDusRDEnLJV3S1svxYQLgwyi5s",
+    "currentPrice": "68115.73",
+    "sellingPrice": "11602.48",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=407574933405696",
+      "https://picsum.photos/seed/OVqKirp/640/480",
+      "https://loremflickr.com/640/480?lock=2148961360019456"
+    ]
+  },
+  {
+    "id": "1e9712df-8b9e-459a-a726-cee3e61fa694",
+    "propertyName": "E Broadway Street",
+    "location": "San Bruno",
+    "owner": "Sonny",
+    "walletAddress": "37C2LbPuhXtdvVY4vBkgTtwNKKcSGLq",
+    "currentPrice": "75911.23",
+    "sellingPrice": "53715.80",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=1235410611077120",
+      "https://loremflickr.com/640/480?lock=6375891600932864",
+      "https://picsum.photos/seed/8nqEVDxU/640/480"
+    ]
+  },
+  {
+    "id": "6edc3420-3297-490c-a9a5-f798b1d648a3",
+    "propertyName": "West Road",
+    "location": "Lake Andreanneton",
+    "owner": "Dorothea",
+    "walletAddress": "3fLVTzwPaABhh16ek4oGLEKSp6W7",
+    "currentPrice": "22230.97",
+    "sellingPrice": "92027.00",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=5863318591897600",
+      "https://picsum.photos/seed/KSW9m/640/480",
+      "https://loremflickr.com/640/480?lock=617680174317568"
+    ]
+  },
+  {
+    "id": "62b4c915-8ad9-4db3-bf14-0bbf1a72a836",
+    "propertyName": "Skyline Drive",
+    "location": "West Ibrahim",
+    "owner": "Melissa",
+    "walletAddress": "3CHyBUUHVqFPKwQ7puvvqXHsfq5hZxrt2",
+    "currentPrice": "57664.06",
+    "sellingPrice": "26872.57",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=2999178382802944",
+      "https://loremflickr.com/640/480?lock=6745975429267456",
+      "https://picsum.photos/seed/FlduXeEuZ/640/480"
+    ]
+  },
+  {
+    "id": "3bfac0a6-8e4d-4de5-a5b9-c1f129e74a32",
+    "propertyName": "Aileen Loop",
+    "location": "East Jaleel",
+    "owner": "Edyth",
+    "walletAddress": "3Ddc61gRbjPXpRmwNrZN5SiMqZNqJ2xJHXUdo2ja",
+    "currentPrice": "20438.44",
+    "sellingPrice": "78936.72",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/SExp7B9tY/640/480",
+      "https://loremflickr.com/640/480?lock=986378988945408",
+      "https://picsum.photos/seed/EPXexg8RJ/640/480"
+    ]
+  },
+  {
+    "id": "c5013fd9-264f-44fd-b6c5-11a881a9517f",
+    "propertyName": "E Union Street",
+    "location": "East Rhea",
+    "owner": "Rosamond",
+    "walletAddress": "3ZrMMdLGcvbmh3TCbewqXpa5Q8gvJQW",
+    "currentPrice": "90261.16",
+    "sellingPrice": "81016.52",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=2323414855450624",
+      "https://loremflickr.com/640/480?lock=336931179200512",
+      "https://loremflickr.com/640/480?lock=1904532646789120"
+    ]
+  },
+  {
+    "id": "39c77dfe-f039-47f5-8706-0e504e5c586f",
+    "propertyName": "Lukas Curve",
+    "location": "Port Kavon",
+    "owner": "Howell",
+    "walletAddress": "3Htx5nnc8BuehYPEJWvvwy1EBCUD9gCE",
+    "currentPrice": "51860.41",
+    "sellingPrice": "70247.14",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/AE0yb/640/480",
+      "https://loremflickr.com/640/480?lock=1990725881298944",
+      "https://loremflickr.com/640/480?lock=45301140291584"
+    ]
+  },
+  {
+    "id": "76cb3b41-0857-4c89-bb1f-f2b105c22816",
+    "propertyName": "Mertz Point",
+    "location": "Kennaboro",
+    "owner": "Maurine",
+    "walletAddress": "3awC6yRXn9AK7Gq4gcBR6swuuchSTLjoD1B",
+    "currentPrice": "98696.19",
+    "sellingPrice": "5978.49",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=2079526089654272",
+      "https://loremflickr.com/640/480?lock=3475252331937792",
+      "https://loremflickr.com/640/480?lock=6682639450767360"
+    ]
+  },
+  {
+    "id": "8bde8d94-b53f-44ab-b382-6024065bc601",
+    "propertyName": "Hilll Mills",
+    "location": "West Luciousborough",
+    "owner": "Carmel",
+    "walletAddress": "38th9EfywwBYS4hTquzrvRTo24Q",
+    "currentPrice": "10350.54",
+    "sellingPrice": "93741.86",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/4lGwQQN1/640/480",
+      "https://loremflickr.com/640/480?lock=7103299857678336",
+      "https://picsum.photos/seed/c9S39n/640/480"
+    ]
+  },
+  {
+    "id": "a3e5cc43-cfbd-4c60-a109-5bc2f8eef5b7",
+    "propertyName": "S Monroe Street",
+    "location": "Bergstrombury",
+    "owner": "Kassandra",
+    "walletAddress": "32dG56F9xo9YMHVcfwJAgb4hiaZNEW8Vc7",
+    "currentPrice": "9718.60",
+    "sellingPrice": "36751.32",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=2737700132093952",
+      "https://picsum.photos/seed/Kjahvq/640/480",
+      "https://loremflickr.com/640/480?lock=6130784681328640"
+    ]
+  },
+  {
+    "id": "0d6069c6-b17a-4690-ac69-626cc7f1b545",
+    "propertyName": "Issac Spring",
+    "location": "East Madelyn",
+    "owner": "Darrin",
+    "walletAddress": "3qpWgM2ASRmZ6bzdt7HwPRZT4ptwgv",
+    "currentPrice": "93403.15",
+    "sellingPrice": "86955.79",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=4266521396248576",
+      "https://picsum.photos/seed/9LlGsBoAa/640/480",
+      "https://picsum.photos/seed/TLm4VnWWDx/640/480"
+    ]
+  },
+  {
+    "id": "6075b26e-71f0-48fe-8761-3847811f6ae4",
+    "propertyName": "Poplar Avenue",
+    "location": "Harveyfort",
+    "owner": "Virgie",
+    "walletAddress": "3djoBPWr9Nbtqc7fQZrzT3ZC72vnjXKxndei7ufN",
+    "currentPrice": "36499.19",
+    "sellingPrice": "8926.51",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=2606624308985856",
+      "https://loremflickr.com/640/480?lock=2374308697473024",
+      "https://loremflickr.com/640/480?lock=6501660033548288"
+    ]
+  },
+  {
+    "id": "3e1a738f-d1aa-46e5-8cb2-77fa62b28923",
+    "propertyName": "Canal Street",
+    "location": "Port Marcoside",
+    "owner": "Marge",
+    "walletAddress": "1mW9orQeCtc8WghJtxuAxyeapKewm",
+    "currentPrice": "12201.66",
+    "sellingPrice": "73459.60",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=5142946634530816",
+      "https://picsum.photos/seed/hjWNmYPHm/640/480",
+      "https://loremflickr.com/640/480?lock=7625091284205568"
+    ]
+  },
+  {
+    "id": "bc3fc414-3628-4220-a058-9092c7f01d03",
+    "propertyName": "6th Avenue",
+    "location": "Chetfield",
+    "owner": "Leonel",
+    "walletAddress": "3LHK7HSSjjtcD17d9hxJxPMY99tWmwX",
+    "currentPrice": "75345.11",
+    "sellingPrice": "6158.63",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=4904004951736320",
+      "https://picsum.photos/seed/Bow8H42/640/480",
+      "https://loremflickr.com/640/480?lock=3084068761632768"
+    ]
+  },
+  {
+    "id": "bd34460e-d821-4ffb-8f67-f897c7e8e2a9",
+    "propertyName": "Hill Road",
+    "location": "North Isobelport",
+    "owner": "Nigel",
+    "walletAddress": "1Xmbs5waM1GBGWkMt1a2EvvxrgZKWZhvQoWmd",
+    "currentPrice": "32043.43",
+    "sellingPrice": "55457.28",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=2566341072519168",
+      "https://picsum.photos/seed/QMSfPgi/640/480",
+      "https://picsum.photos/seed/YaFZRAH/640/480"
+    ]
+  },
+  {
+    "id": "81534599-cbe8-4ac7-9631-5737e01bfe2f",
+    "propertyName": "St John's Road",
+    "location": "Fort Cornell",
+    "owner": "Flossie",
+    "walletAddress": "32zYSqYjjyFrCKPmop6VYsrDy6z",
+    "currentPrice": "85047.08",
+    "sellingPrice": "8173.05",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=2865944367988736",
+      "https://loremflickr.com/640/480?lock=4605667669180416",
+      "https://loremflickr.com/640/480?lock=6839032310923264"
+    ]
+  },
+  {
+    "id": "3aa4b1a5-499d-468c-b7be-30597fb046b2",
+    "propertyName": "Desiree Roads",
+    "location": "Coleberg",
+    "owner": "Edythe",
+    "walletAddress": "16nxGZGhhNc44Xwq15AeqxR9R2",
+    "currentPrice": "94070.25",
+    "sellingPrice": "43348.51",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/TB2orI/640/480",
+      "https://loremflickr.com/640/480?lock=2519150184366080",
+      "https://loremflickr.com/640/480?lock=2172397606141952"
+    ]
+  },
+  {
+    "id": "b923f2bf-deb3-4ecb-9a85-9cd62a711168",
+    "propertyName": "Cummings Dam",
+    "location": "Fort Linniehaven",
+    "owner": "Chad",
+    "walletAddress": "1HDLorBzTrZ2ZpmBtRs9HrPtL9Qv1rfLo",
+    "currentPrice": "95841.32",
+    "sellingPrice": "45041.91",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/T1idPZu/640/480",
+      "https://picsum.photos/seed/3a8AjliGHd/640/480",
+      "https://picsum.photos/seed/Cybk8S/640/480"
+    ]
+  },
+  {
+    "id": "df9e33a1-69f6-43cc-bbe6-9288100a803c",
+    "propertyName": "Ike Knoll",
+    "location": "Mertzton",
+    "owner": "Frankie",
+    "walletAddress": "12PGvbpurod7msPRFj35cuuvfA2z",
+    "currentPrice": "28501.53",
+    "sellingPrice": "34055.04",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/z1m4hBpNcV/640/480",
+      "https://loremflickr.com/640/480?lock=7526685526196224",
+      "https://picsum.photos/seed/gXr5edZ/640/480"
+    ]
+  },
+  {
+    "id": "c6f2f26a-4651-419c-b8b2-8662d80175ba",
+    "propertyName": "Hermann Freeway",
+    "location": "Oakland Park",
+    "owner": "May",
+    "walletAddress": "1bRuBb3aqndTEhmKX2WCVpFuWL9WYqhQwajYoEKW",
+    "currentPrice": "22367.05",
+    "sellingPrice": "29652.83",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=1025768645722112",
+      "https://loremflickr.com/640/480?lock=2769918118330368",
+      "https://picsum.photos/seed/HW1glIrb25/640/480"
+    ]
+  },
+  {
+    "id": "737d0e3c-98ed-4ad9-b722-9e62581ed668",
+    "propertyName": "Balmoral Road",
+    "location": "New Dionville",
+    "owner": "Tremaine",
+    "walletAddress": "1tkzJjcQpiVygZwMEqREuN1yHBKX8k7DoN4L",
+    "currentPrice": "76095.46",
+    "sellingPrice": "6220.84",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=239192581865472",
+      "https://loremflickr.com/640/480?lock=5935220167540736",
+      "https://picsum.photos/seed/0Tq8u87AE/640/480"
+    ]
+  },
+  {
+    "id": "ef1381d1-55e2-42e0-b5fd-121f12508dd1",
+    "propertyName": "Linwood Crescent",
+    "location": "Killeen",
+    "owner": "Uriah",
+    "walletAddress": "1ktuvN6aF8K2UBf8uFpCco2bjHCMWiKKCtKe",
+    "currentPrice": "99925.20",
+    "sellingPrice": "18201.40",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=777780295892992",
+      "https://loremflickr.com/640/480?lock=6214742299377664",
+      "https://loremflickr.com/640/480?lock=7587746726019072"
+    ]
+  },
+  {
+    "id": "7e6b1303-6bed-4d26-b528-d6ee4344c91a",
+    "propertyName": "Cedar Grove",
+    "location": "New Kristafort",
+    "owner": "Rhianna",
+    "walletAddress": "3jQSvVHCWLPrFeM1G95puUJWYFgjRbzZKh5",
+    "currentPrice": "83452.33",
+    "sellingPrice": "44512.58",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/mjYtqE/640/480",
+      "https://picsum.photos/seed/c8AY5RHP/640/480",
+      "https://loremflickr.com/640/480?lock=5231014137823232"
+    ]
+  },
+  {
+    "id": "68b6fdd5-da89-4e5d-ab27-82b48a47477a",
+    "propertyName": "The Coppice",
+    "location": "Lake Toni",
+    "owner": "Chanel",
+    "walletAddress": "1H1UTY5BAaA7CfCkVy5mBnX6dy",
+    "currentPrice": "42763.25",
+    "sellingPrice": "47305.76",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=824048221159424",
+      "https://picsum.photos/seed/Ds1y5W2tcf/640/480",
+      "https://loremflickr.com/640/480?lock=7123313711120384"
+    ]
+  },
+  {
+    "id": "77d661f3-95d0-4452-bc99-b7419f0fb5d4",
+    "propertyName": "Alanna Curve",
+    "location": "Port Marina",
+    "owner": "Deon",
+    "walletAddress": "12jnibb7i9WVEVHRWU5TL9txdaCVZdk79t3ULe",
+    "currentPrice": "57487.08",
+    "sellingPrice": "27920.04",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/WROeZT/640/480",
+      "https://loremflickr.com/640/480?lock=5580796427501568",
+      "https://loremflickr.com/640/480?lock=157548896321536"
+    ]
+  },
+  {
+    "id": "da907602-ed22-42f9-9d12-6e3eaac2df7f",
+    "propertyName": "Simonis Place",
+    "location": "Greeley",
+    "owner": "Marcelle",
+    "walletAddress": "1BUpQ6fF5MTF9E5iLorr8LhCcNxET",
+    "currentPrice": "77970.15",
+    "sellingPrice": "59520.83",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/VI933OhJ/640/480",
+      "https://picsum.photos/seed/duw5cMKtM/640/480",
+      "https://picsum.photos/seed/g3AznT/640/480"
+    ]
+  },
+  {
+    "id": "dc373ebc-d221-478f-a31d-91c00c08a7f1",
+    "propertyName": "Northfield Road",
+    "location": "North Breannaville",
+    "owner": "Darian",
+    "walletAddress": "1RCe8VWiQHZFxxVSX8ryrT6r4RZ3U",
+    "currentPrice": "18334.65",
+    "sellingPrice": "68990.14",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/VjEwsq/640/480",
+      "https://loremflickr.com/640/480?lock=6573123828711424",
+      "https://picsum.photos/seed/t11HHck/640/480"
+    ]
+  },
+  {
+    "id": "d482b826-4b16-44a8-ab2a-89eff928cdf3",
+    "propertyName": "Gislason Brook",
+    "location": "Gregstead",
+    "owner": "Paige",
+    "walletAddress": "1LWRoPXaZTxBNCAJSt4wTAbojZ3",
+    "currentPrice": "86195.36",
+    "sellingPrice": "70015.52",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/sggvkf/640/480",
+      "https://loremflickr.com/640/480?lock=7710338619277312",
+      "https://loremflickr.com/640/480?lock=1160364165169152"
+    ]
+  },
+  {
+    "id": "037bbe2f-3c8d-4b23-aeaa-00e19b3333af",
+    "propertyName": "Vaughn Pines",
+    "location": "West Brayanfurt",
+    "owner": "Noel",
+    "walletAddress": "3jdU3rRojMkxPYBACSQHofG39gd6f1Nxs4jx",
+    "currentPrice": "17005.52",
+    "sellingPrice": "77110.83",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=8759834992181248",
+      "https://picsum.photos/seed/BDsvFaMeh/640/480",
+      "https://picsum.photos/seed/vPmeq816i/640/480"
+    ]
+  },
+  {
+    "id": "a23e4cc8-c877-46ac-a943-e1bc2843ec59",
+    "propertyName": "S Washington Avenue",
+    "location": "Mauriciofield",
+    "owner": "Verdie",
+    "walletAddress": "3cTCwyXJ6C74agpfXt19Zb2fhCrkXj",
+    "currentPrice": "40976.73",
+    "sellingPrice": "89141.95",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/ZzkMvb88/640/480",
+      "https://picsum.photos/seed/4R8OBpu4v/640/480",
+      "https://loremflickr.com/640/480?lock=3423332584128512"
+    ]
+  },
+  {
+    "id": "d959e55d-b917-4aae-b285-7098a5551e6a",
+    "propertyName": "Beer Gardens",
+    "location": "Port Mariettaboro",
+    "owner": "Jermain",
+    "walletAddress": "18ProsqBLFNyEagvXfANEBoxdQS",
+    "currentPrice": "95032.47",
+    "sellingPrice": "15250.27",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=1338431724584960",
+      "https://picsum.photos/seed/KC7GfOdz28/640/480",
+      "https://loremflickr.com/640/480?lock=4589065458417664"
+    ]
+  },
+  {
+    "id": "9d00dfb1-76db-4714-9222-18080eccbdfe",
+    "propertyName": "Adams Mill",
+    "location": "West Rubiefort",
+    "owner": "Naomie",
+    "walletAddress": "1RzuCuXa34ZsP7imfbx9rxBP1kyFk2Y3LTGJj",
+    "currentPrice": "8696.42",
+    "sellingPrice": "81228.13",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/3QZxFi/640/480",
+      "https://picsum.photos/seed/7jIxmfkMl/640/480",
+      "https://picsum.photos/seed/qbHUt/640/480"
+    ]
+  },
+  {
+    "id": "3f62307f-9d8d-4e19-b612-b951055f607c",
+    "propertyName": "Bulah Expressway",
+    "location": "South Cassandre",
+    "owner": "Ryley",
+    "walletAddress": "1NxdASFmzZg9RnxRkEoxxYszVzkBNX",
+    "currentPrice": "19381.44",
+    "sellingPrice": "41714.13",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/2vsZ067wj/640/480",
+      "https://picsum.photos/seed/BISGmtT/640/480",
+      "https://loremflickr.com/640/480?lock=3130517304115200"
+    ]
+  },
+  {
+    "id": "7a0a74b5-1069-4fb1-b50a-f11c4a1de329",
+    "propertyName": "Royal Courts",
+    "location": "Kalebside",
+    "owner": "Kayleigh",
+    "walletAddress": "3KJ18bveJjHSL36M6FDS1KNNo5QhRWVh2uKWQV",
+    "currentPrice": "78036.23",
+    "sellingPrice": "48159.82",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/tpPJ73a/640/480",
+      "https://picsum.photos/seed/VSFNCygOD/640/480",
+      "https://loremflickr.com/640/480?lock=4440982223323136"
+    ]
+  },
+  {
+    "id": "e834a780-e91d-4e1a-b1f6-066487cdb035",
+    "propertyName": "Cedar Street",
+    "location": "Boganboro",
+    "owner": "Pansy",
+    "walletAddress": "3B7dTgLzJWXrEtsGGACWcUvGsyCC75HmJnFt",
+    "currentPrice": "11457.25",
+    "sellingPrice": "56107.39",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/Qax2ek/640/480",
+      "https://picsum.photos/seed/NaHRxqfWhC/640/480",
+      "https://picsum.photos/seed/6malpG9m/640/480"
+    ]
+  },
+  {
+    "id": "d5b2c6f1-e3d4-4f9e-8c28-c26dcd829066",
+    "propertyName": "Brook Street",
+    "location": "North Bethesda",
+    "owner": "Deondre",
+    "walletAddress": "3WM7jwN9mTAMKkVSKnr3Y8AqEHeEZws",
+    "currentPrice": "43170.07",
+    "sellingPrice": "95935.71",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/zMyrpekF5m/640/480",
+      "https://loremflickr.com/640/480?lock=2266201161990144",
+      "https://loremflickr.com/640/480?lock=8488931886628864"
+    ]
+  },
+  {
+    "id": "1efea7c8-95c8-436a-8c40-f4f9da180d09",
+    "propertyName": "Swaniawski Cliff",
+    "location": "Kennedymouth",
+    "owner": "Sonia",
+    "walletAddress": "34QUeV5s9VuuEmVMg4AtATH9wvDjJSnRYXow5W",
+    "currentPrice": "49859.71",
+    "sellingPrice": "6626.02",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=6888911171223552",
+      "https://picsum.photos/seed/QTDRDpSQf4/640/480",
+      "https://loremflickr.com/640/480?lock=2456037596594176"
+    ]
+  },
+  {
+    "id": "f3a06908-5482-42a8-8b43-eb60dc49c3ab",
+    "propertyName": "Kreiger Center",
+    "location": "Port Brandi",
+    "owner": "Micah",
+    "walletAddress": "15qXUAt8JM9ndxTdu8zYb4nHZ4nCGT4",
+    "currentPrice": "37087.99",
+    "sellingPrice": "96516.19",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=439220573306880",
+      "https://loremflickr.com/640/480?lock=344702721196032",
+      "https://loremflickr.com/640/480?lock=849950569136128"
+    ]
+  },
+  {
+    "id": "8899dc8d-911c-4618-b56d-60d941737564",
+    "propertyName": "Willow Drive",
+    "location": "Goyettestead",
+    "owner": "Maurine",
+    "walletAddress": "1ngwx4HNFon8mDUGECKmBeFd7Hdwj",
+    "currentPrice": "92203.84",
+    "sellingPrice": "92199.66",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/d8rgRug34N/640/480",
+      "https://picsum.photos/seed/Rjhx10X/640/480",
+      "https://loremflickr.com/640/480?lock=3539793411571712"
+    ]
+  },
+  {
+    "id": "b35261eb-9bc5-4027-affb-ff814363f30d",
+    "propertyName": "Farrell Ridges",
+    "location": "Tuscaloosa",
+    "owner": "Wanda",
+    "walletAddress": "1uRh5jwk3c5wiEA8r9FRbVxhsQB8M",
+    "currentPrice": "2865.85",
+    "sellingPrice": "99080.61",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/yw5tNII/640/480",
+      "https://loremflickr.com/640/480?lock=238578957287424",
+      "https://loremflickr.com/640/480?lock=2037806629126144"
+    ]
+  },
+  {
+    "id": "fafaa9ae-c0a7-4428-afca-0ee149efdebf",
+    "propertyName": "Elouise Run",
+    "location": "Ezekielberg",
+    "owner": "Santa",
+    "walletAddress": "3DsbGehaedNN4F88nGLE6W16Ew",
+    "currentPrice": "78634.68",
+    "sellingPrice": "51918.29",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=6818187089805312",
+      "https://picsum.photos/seed/QG7DSa/640/480",
+      "https://picsum.photos/seed/H2AS8fSuUY/640/480"
+    ]
+  },
+  {
+    "id": "c01cdb27-d52a-4758-88a3-35909fc79d78",
+    "propertyName": "Albion Street",
+    "location": "Priceton",
+    "owner": "Lola",
+    "walletAddress": "3ee9jCsivzYbeRXa7vGaHpwv1PQzkXoE",
+    "currentPrice": "13985.60",
+    "sellingPrice": "25355.57",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/LrwsS7EN/640/480",
+      "https://picsum.photos/seed/nqNIkRf4aP/640/480",
+      "https://loremflickr.com/640/480?lock=622344833859584"
+    ]
+  },
+  {
+    "id": "f212f499-941d-4552-a94c-63a4732251f9",
+    "propertyName": "N Cedar Street",
+    "location": "Berniestad",
+    "owner": "Casey",
+    "walletAddress": "1gGETZjpQUsroJZRqAp2PAqXFvacPK6sLV",
+    "currentPrice": "41368.33",
+    "sellingPrice": "77761.76",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=3643478772809728",
+      "https://loremflickr.com/640/480?lock=1169028160684032",
+      "https://loremflickr.com/640/480?lock=8341929179742208"
+    ]
+  },
+  {
+    "id": "188dc11e-e06a-47bc-9966-41cd470f9134",
+    "propertyName": "Lacey Unions",
+    "location": "Robertsland",
+    "owner": "Cleve",
+    "walletAddress": "3rpsZ2eHSMNTvAJfWiMt63HSuEULTkStKs",
+    "currentPrice": "18168.00",
+    "sellingPrice": "94908.80",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/6iWzA/640/480",
+      "https://picsum.photos/seed/R4EPqsFAv/640/480",
+      "https://loremflickr.com/640/480?lock=5274644932198400"
+    ]
+  },
+  {
+    "id": "1fdfbfd8-f222-4751-8c59-39989b366a04",
+    "propertyName": "Greenwood Road",
+    "location": "West Juanitashire",
+    "owner": "Louisa",
+    "walletAddress": "1ncd6qt2xVde1MQVALpS9ZhFVX1yMpbtYPLDCh",
+    "currentPrice": "8122.01",
+    "sellingPrice": "18743.36",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=8246297584730112",
+      "https://picsum.photos/seed/amn64SLRSD/640/480",
+      "https://loremflickr.com/640/480?lock=1807477333032960"
+    ]
+  },
+  {
+    "id": "01f14c21-577b-403a-99f3-0f9068843d55",
+    "propertyName": "Shanahan Spurs",
+    "location": "The Villages",
+    "owner": "Emily",
+    "walletAddress": "3aDPr1xgrUcJFcidB8hoRua1hdkqs8AWJCY5",
+    "currentPrice": "12850.60",
+    "sellingPrice": "53752.38",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=2304491718180864",
+      "https://loremflickr.com/640/480?lock=2781093891670016",
+      "https://loremflickr.com/640/480?lock=2792200568045568"
+    ]
+  },
+  {
+    "id": "a916a666-8fbb-4771-bc82-d1acfb0c14da",
+    "propertyName": "The Ridings",
+    "location": "Lake Clare",
+    "owner": "Austin",
+    "walletAddress": "3zVin73skNbAQzUQogYZyGyzxC6bf6",
+    "currentPrice": "47404.29",
+    "sellingPrice": "7187.69",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=5800181945597952",
+      "https://picsum.photos/seed/Al4o9Ez/640/480",
+      "https://picsum.photos/seed/aF2Wlofe/640/480"
+    ]
+  },
+  {
+    "id": "0d467f8c-b7af-4b3f-a4dd-172284a222f1",
+    "propertyName": "S 1st Avenue",
+    "location": "Corona",
+    "owner": "Elwyn",
+    "walletAddress": "1iLLSrr4PcAH2qRr14PK2TNzsDxcuUmdpuP",
+    "currentPrice": "78675.94",
+    "sellingPrice": "75621.33",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=8396995142090752",
+      "https://picsum.photos/seed/S3YXamZ3/640/480",
+      "https://picsum.photos/seed/JfJTC3wW/640/480"
+    ]
+  },
+  {
+    "id": "702c14d5-ed22-4979-bafa-99326e144501",
+    "propertyName": "Arlie Station",
+    "location": "New Rubenhaven",
+    "owner": "Vesta",
+    "walletAddress": "1b2FbW4TinfDQnVGsNPkyXdvWpkeD2ySWmrNwg",
+    "currentPrice": "51105.88",
+    "sellingPrice": "43747.34",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=2478287513190400",
+      "https://picsum.photos/seed/RSPEyb23T5/640/480",
+      "https://picsum.photos/seed/WCOmhya3/640/480"
+    ]
+  },
+  {
+    "id": "edf65cca-770b-4eac-959a-85eb99c5c9d4",
+    "propertyName": "S 7th Street",
+    "location": "Newton",
+    "owner": "Edna",
+    "walletAddress": "1spYJShaQzkb6oXhvZF5uPefNUzHhqvdyytLL",
+    "currentPrice": "45812.89",
+    "sellingPrice": "7031.58",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=4514661756043264",
+      "https://loremflickr.com/640/480?lock=8294477858865152",
+      "https://loremflickr.com/640/480?lock=6476229012094976"
+    ]
+  },
+  {
+    "id": "0b1d4bab-a179-4aee-937b-29d3d2dd597a",
+    "propertyName": "Brook Road",
+    "location": "Dooleyfield",
+    "owner": "Thaddeus",
+    "walletAddress": "1kVWg7jkaBAUve6Ak3p7Pb5kV9HeMPgcgbaYxWJR",
+    "currentPrice": "30701.26",
+    "sellingPrice": "50110.48",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/vaNHAnXT/640/480",
+      "https://loremflickr.com/640/480?lock=6912083520126976",
+      "https://picsum.photos/seed/GUpXk5Ob/640/480"
+    ]
+  },
+  {
+    "id": "01a3ec6c-4e1e-4a35-9d20-a5625472e93b",
+    "propertyName": "W Oak Street",
+    "location": "Sioux City",
+    "owner": "Francesca",
+    "walletAddress": "3HUMUvc77yaZHNgpRZ7Tdi4LUyhsP7ooVzcCx6",
+    "currentPrice": "77706.90",
+    "sellingPrice": "47546.11",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/EkHA0ovOZ/640/480",
+      "https://picsum.photos/seed/XfTTKFFcI0/640/480",
+      "https://picsum.photos/seed/5GdCcfjs/640/480"
+    ]
+  },
+  {
+    "id": "e9876a68-e961-4fc3-9169-e7853b3ceccf",
+    "propertyName": "Stanton Ford",
+    "location": "Terrellberg",
+    "owner": "Santa",
+    "walletAddress": "1j9tottMy6YStg1wxz7HzEBkJZ56",
+    "currentPrice": "67636.13",
+    "sellingPrice": "4759.23",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/14sfBP/640/480",
+      "https://loremflickr.com/640/480?lock=1630333399203840",
+      "https://picsum.photos/seed/wtPBos2C/640/480"
+    ]
+  },
+  {
+    "id": "331a843a-cb64-4d59-b54f-cb79eb01fa81",
+    "propertyName": "Mathilde Glens",
+    "location": "Romagueratown",
+    "owner": "Harrison",
+    "walletAddress": "3khnWMqGhccHBT7nairjwHzdci81S",
+    "currentPrice": "91918.59",
+    "sellingPrice": "73146.88",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/osdCLqrSJW/640/480",
+      "https://loremflickr.com/640/480?lock=1553540182966272",
+      "https://loremflickr.com/640/480?lock=745078515564544"
+    ]
+  },
+  {
+    "id": "b3426691-9b1a-417a-b6b5-b415b9de7517",
+    "propertyName": "W Pine Street",
+    "location": "Phoenix",
+    "owner": "Caleb",
+    "walletAddress": "1UkvjKYYTajYrM2AVYWmbdkek2JLcS",
+    "currentPrice": "3182.23",
+    "sellingPrice": "76144.87",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/94IK2c/640/480",
+      "https://picsum.photos/seed/FirzLsy/640/480",
+      "https://loremflickr.com/640/480?lock=5917773272186880"
+    ]
+  },
+  {
+    "id": "e495c770-b5d3-43e4-8d12-2ed1a3984d12",
+    "propertyName": "Lynch Square",
+    "location": "East Kira",
+    "owner": "Gustave",
+    "walletAddress": "1AqKzgAT3YFtJA8sLSEnyuvsJySCmYpK",
+    "currentPrice": "95032.76",
+    "sellingPrice": "6490.02",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/TFNhEf8s/640/480",
+      "https://loremflickr.com/640/480?lock=5102898197299200",
+      "https://loremflickr.com/640/480?lock=4113958919208960"
+    ]
+  },
+  {
+    "id": "99848882-a9c4-481a-b280-826e01f103eb",
+    "propertyName": "S Bridge Street",
+    "location": "Moreno Valley",
+    "owner": "Garth",
+    "walletAddress": "3DmE16qhjLuE1DYgAmQLggFxXTFsMAtjeYTK19nm",
+    "currentPrice": "14288.80",
+    "sellingPrice": "42699.34",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/YSe5l/640/480",
+      "https://loremflickr.com/640/480?lock=2375693566476288",
+      "https://picsum.photos/seed/9Nj3F9/640/480"
+    ]
+  },
+  {
+    "id": "0d492936-575d-4ebe-ae5d-17c7292ef7eb",
+    "propertyName": "Casimir Lights",
+    "location": "San Buenaventura (Ventura)",
+    "owner": "Ellsworth",
+    "walletAddress": "1PZEvW4xtmsdXQVm6NJbZwsbKv2e5ncPzev",
+    "currentPrice": "85017.24",
+    "sellingPrice": "78157.08",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=1564663336665088",
+      "https://picsum.photos/seed/al5id65RY/640/480",
+      "https://picsum.photos/seed/a8JpDH4X/640/480"
+    ]
+  },
+  {
+    "id": "49fe6234-330f-455a-a7ce-e9815a53987f",
+    "propertyName": "Florine Manor",
+    "location": "Akron",
+    "owner": "Jeramie",
+    "walletAddress": "3XyNxbqUA7aihUviwyucKHZ7s9M6W",
+    "currentPrice": "51967.34",
+    "sellingPrice": "37691.49",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/g3GNqm0/640/480",
+      "https://picsum.photos/seed/HJbvXcg2OS/640/480",
+      "https://loremflickr.com/640/480?lock=7786913157087232"
+    ]
+  },
+  {
+    "id": "7a6e4f89-009f-42a0-89e9-9adc3e60badc",
+    "propertyName": "Kestrel Close",
+    "location": "Hodkiewiczberg",
+    "owner": "Kristofer",
+    "walletAddress": "1FyGfpZXzVDu4r9sD1H2pm8GAh4cGXMy",
+    "currentPrice": "85240.59",
+    "sellingPrice": "45839.38",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/f1ZzX/640/480",
+      "https://loremflickr.com/640/480?lock=3687838153441280",
+      "https://picsum.photos/seed/75sAe/640/480"
+    ]
+  },
+  {
+    "id": "1236cbd7-3517-42a7-9602-18c93ce4d3f5",
+    "propertyName": "Calista Station",
+    "location": "Fort Otha",
+    "owner": "Jovan",
+    "walletAddress": "3LYmH4kgxqHLt8mt7MPcHd3w5H5Qs54W3",
+    "currentPrice": "7929.62",
+    "sellingPrice": "60581.30",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=8617144526831616",
+      "https://loremflickr.com/640/480?lock=2043787643715584",
+      "https://picsum.photos/seed/CZVtEYm7n/640/480"
+    ]
+  },
+  {
+    "id": "e6692216-72b7-4215-bc79-724b7aed9d55",
+    "propertyName": "Leanna Ramp",
+    "location": "Naderburgh",
+    "owner": "Kolby",
+    "walletAddress": "1nU4GJxKRPs5WLLU7hYd6CGaQMiMaUvFyKFW",
+    "currentPrice": "38622.27",
+    "sellingPrice": "11520.85",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/cEMFRMjioW/640/480",
+      "https://picsum.photos/seed/lFAER9ko/640/480",
+      "https://picsum.photos/seed/nHN8A/640/480"
+    ]
+  },
+  {
+    "id": "775bfd76-9802-4b03-bce7-401ed1349025",
+    "propertyName": "Jasmin Mission",
+    "location": "South Maia",
+    "owner": "Luigi",
+    "walletAddress": "33EBESiHqTykYB2rGw1q4huNxKKgj",
+    "currentPrice": "82316.86",
+    "sellingPrice": "44544.25",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=2292954322436096",
+      "https://picsum.photos/seed/67fimBemP8/640/480",
+      "https://loremflickr.com/640/480?lock=5693556847017984"
+    ]
+  },
+  {
+    "id": "59bb9849-528c-4598-9cef-fb8cc9cfbe4f",
+    "propertyName": "Tierra Mountains",
+    "location": "Gastonia",
+    "owner": "Elouise",
+    "walletAddress": "1HPNmZCWhGiEo8PZo7Z3ETHtoUfhY7mQgJc",
+    "currentPrice": "40838.65",
+    "sellingPrice": "99356.84",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/e9txBZ/640/480",
+      "https://picsum.photos/seed/tDJvHM/640/480",
+      "https://picsum.photos/seed/G0IPajYpk/640/480"
+    ]
+  },
+  {
+    "id": "c641d978-453e-4b41-b1f7-fead3840bb27",
+    "propertyName": "Ondricka Corner",
+    "location": "North Adelia",
+    "owner": "Blake",
+    "walletAddress": "3nHsF5PHs6YNBRbscsNK3Xp8vF",
+    "currentPrice": "50081.01",
+    "sellingPrice": "58108.20",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=6972434303418368",
+      "https://picsum.photos/seed/cLw7B/640/480",
+      "https://picsum.photos/seed/bo4JqrcMM4/640/480"
+    ]
+  },
+  {
+    "id": "f33174a5-5562-41cd-8a01-0a96722707ce",
+    "propertyName": "Pacocha Cliff",
+    "location": "Independence",
+    "owner": "Dawn",
+    "walletAddress": "1PzhhhmnYK8jPQ3KRVFjw4S86eExUEG58HopPT",
+    "currentPrice": "67665.51",
+    "sellingPrice": "76047.70",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/7GR4aFHmx/640/480",
+      "https://loremflickr.com/640/480?lock=8940473265684480",
+      "https://picsum.photos/seed/hANYaGq2/640/480"
+    ]
+  },
+  {
+    "id": "a751a32b-7970-40ba-b802-d0ea36c44cd1",
+    "propertyName": "Schamberger Forges",
+    "location": "Maddisonborough",
+    "owner": "Lexus",
+    "walletAddress": "1BRsfAS6vhB5y7rkQUNkdH1XQVekf16JHmsfX",
+    "currentPrice": "29450.89",
+    "sellingPrice": "65275.19",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/ehw2PO7dG/640/480",
+      "https://loremflickr.com/640/480?lock=342374087655424",
+      "https://picsum.photos/seed/VYHk3Sl/640/480"
+    ]
+  },
+  {
+    "id": "24ca4763-d449-47e5-921f-c6e1b3a3172d",
+    "propertyName": "Lee Street",
+    "location": "Fort Gabriel",
+    "owner": "Sandrine",
+    "walletAddress": "3u1EeEgdf8jP6WnLes8HN452zGuQEB52",
+    "currentPrice": "24598.55",
+    "sellingPrice": "11084.92",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=6469292809781248",
+      "https://loremflickr.com/640/480?lock=2625386131226624",
+      "https://loremflickr.com/640/480?lock=6037315128393728"
+    ]
+  },
+  {
+    "id": "00c548c9-c627-445a-aa60-ff3612322e8b",
+    "propertyName": "Barrows Plaza",
+    "location": "Vanview",
+    "owner": "Dino",
+    "walletAddress": "1bKda1Rqz31gum97PScDj9vJ3vkEd",
+    "currentPrice": "18723.03",
+    "sellingPrice": "25050.28",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=4119402513432576",
+      "https://loremflickr.com/640/480?lock=2014959250702336",
+      "https://picsum.photos/seed/eOFPG6/640/480"
+    ]
+  },
+  {
+    "id": "94c1bd87-3dcb-4254-9235-f84c0696a2b9",
+    "propertyName": "Leffler River",
+    "location": "Celiafort",
+    "owner": "Breanna",
+    "walletAddress": "1oX5nUuZ9RidZ6ZNLoL5t4x4UH5",
+    "currentPrice": "8116.70",
+    "sellingPrice": "8173.21",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=3252746343940096",
+      "https://picsum.photos/seed/r7tHW6p/640/480",
+      "https://loremflickr.com/640/480?lock=778439546109952"
+    ]
+  },
+  {
+    "id": "f53a52ca-ab5d-441c-836e-7bcbde2ef9c3",
+    "propertyName": "Isidro Canyon",
+    "location": "New Alyciahaven",
+    "owner": "Dwight",
+    "walletAddress": "3ijXdzoaxpaMukdi65SRmx4oi1cwsE8oXJ7z",
+    "currentPrice": "11769.40",
+    "sellingPrice": "66755.06",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=1456495824732160",
+      "https://picsum.photos/seed/3kMHI5Lpd/640/480",
+      "https://loremflickr.com/640/480?lock=5476766414012416"
+    ]
+  },
+  {
+    "id": "843bf107-4164-41e0-8ac2-7e142fa3c0d0",
+    "propertyName": "Luettgen Views",
+    "location": "Brakusmouth",
+    "owner": "Kaia",
+    "walletAddress": "1CQW5omVyd5uHEXSMjsEe3K5k6jenjEMVZDtnf7a",
+    "currentPrice": "82662.95",
+    "sellingPrice": "43910.18",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/oaCPL1iQ/640/480",
+      "https://loremflickr.com/640/480?lock=8557155930079232",
+      "https://picsum.photos/seed/6SX09z/640/480"
+    ]
+  },
+  {
+    "id": "c19f9130-ac99-4607-9b51-8c099d3f1afa",
+    "propertyName": "George Street",
+    "location": "Melbourne",
+    "owner": "Myrna",
+    "walletAddress": "1WY9dQCgdNA11NErqQERKEdth3UD",
+    "currentPrice": "91466.35",
+    "sellingPrice": "34648.71",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=1159148118999040",
+      "https://picsum.photos/seed/PivuI/640/480",
+      "https://loremflickr.com/640/480?lock=6067015202635776"
+    ]
+  },
+  {
+    "id": "5f968733-20d0-4d65-88c3-b21089aa9418",
+    "propertyName": "Yundt Run",
+    "location": "Jacksonhaven",
+    "owner": "Mathilde",
+    "walletAddress": "1BweYRvSw2uMo2jQPPJDC1fCr7iuT5",
+    "currentPrice": "38981.85",
+    "sellingPrice": "3294.55",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=278241554202624",
+      "https://loremflickr.com/640/480?lock=501017217073152",
+      "https://picsum.photos/seed/ZBh5dG/640/480"
+    ]
+  },
+  {
+    "id": "58b5c694-5170-4c05-a2c0-4e2abe436e3c",
+    "propertyName": "Kunze Divide",
+    "location": "Lake Tre",
+    "owner": "Blanca",
+    "walletAddress": "1HmyKpUCTLm7Crq3fF5VyLKPeP81Axz",
+    "currentPrice": "30902.05",
+    "sellingPrice": "72016.70",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=2142999624548352",
+      "https://picsum.photos/seed/y7fMJ6/640/480",
+      "https://picsum.photos/seed/VcrnTS7R59/640/480"
+    ]
+  },
+  {
+    "id": "5292e200-fc1c-405a-b5d8-96eee8198ee1",
+    "propertyName": "The Spinney",
+    "location": "Douglasshire",
+    "owner": "Hilma",
+    "walletAddress": "1XXKtxhvN1cAgLuQegE6FD7TPSqYzf21",
+    "currentPrice": "89346.61",
+    "sellingPrice": "36852.98",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/vRHm4i/640/480",
+      "https://loremflickr.com/640/480?lock=2682620517285888",
+      "https://picsum.photos/seed/Tu9hJph8/640/480"
+    ]
+  },
+  {
+    "id": "887a3098-cc6e-4063-8e31-b031f54ae2ef",
+    "propertyName": "Tyler Hollow",
+    "location": "Wilmington",
+    "owner": "Miguel",
+    "walletAddress": "3ayos7cu86w6JysbJ49hmZShnmh7e3HLX",
+    "currentPrice": "78525.48",
+    "sellingPrice": "81568.07",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/okZK8fNds/640/480",
+      "https://loremflickr.com/640/480?lock=3221942567960576",
+      "https://loremflickr.com/640/480?lock=7333271744544768"
+    ]
+  },
+  {
+    "id": "bd33bff7-04b0-4788-ac36-1cf3a2c93e43",
+    "propertyName": "Mill Road",
+    "location": "Port Luciano",
+    "owner": "Lavern",
+    "walletAddress": "3EiMJvXv9ajqueUEs53CP97Eq94G1gawXgoiC",
+    "currentPrice": "31969.75",
+    "sellingPrice": "92740.49",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/2h6QWz6A/640/480",
+      "https://picsum.photos/seed/b8kM0sf0/640/480",
+      "https://picsum.photos/seed/14kpk/640/480"
+    ]
+  },
+  {
+    "id": "2775fdef-c8b6-4f7d-a59f-c5fd7562509a",
+    "propertyName": "The Coppice",
+    "location": "East Esmeralda",
+    "owner": "Jeanie",
+    "walletAddress": "1xxDVYDmpJ6gDpyRG5PDDF4V7jtMGHG",
+    "currentPrice": "40422.63",
+    "sellingPrice": "39857.22",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/q0Z6W0A/640/480",
+      "https://picsum.photos/seed/eXffboB2o/640/480",
+      "https://picsum.photos/seed/K9p8Mcaan/640/480"
+    ]
+  },
+  {
+    "id": "37e671d7-1bf9-45a5-b303-5f5b098e4713",
+    "propertyName": "Washington Road",
+    "location": "East Olen",
+    "owner": "Winfield",
+    "walletAddress": "1hUY6pJk8G8gVMFwia4ysk9kmv2mYCEAiPC",
+    "currentPrice": "94097.22",
+    "sellingPrice": "2004.19",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=8792455679836160",
+      "https://picsum.photos/seed/cCzcnkZ0J/640/480",
+      "https://loremflickr.com/640/480?lock=357299556188160"
+    ]
+  },
+  {
+    "id": "e48e1545-76c6-41a0-a9d8-3092925196e7",
+    "propertyName": "Davis Haven",
+    "location": "New Daniellaworth",
+    "owner": "Zita",
+    "walletAddress": "1tRDxgDXzbs7rKGSoQzpLb47hpVq6G62PeXtnNpt",
+    "currentPrice": "27447.94",
+    "sellingPrice": "14794.10",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=4655342002634752",
+      "https://picsum.photos/seed/N2IICsbFHq/640/480",
+      "https://picsum.photos/seed/tJ9NF7/640/480"
+    ]
+  },
+  {
+    "id": "a94b6522-4b10-4910-bb92-845064711c50",
+    "propertyName": "The Laurels",
+    "location": "Napa",
+    "owner": "Freda",
+    "walletAddress": "19kvuAyPCumH5M7SMdMFt94vVGMYexjityymaNW",
+    "currentPrice": "80680.03",
+    "sellingPrice": "31829.83",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/d7cCe7rl/640/480",
+      "https://loremflickr.com/640/480?lock=4366981142675456",
+      "https://loremflickr.com/640/480?lock=2522106105430016"
+    ]
+  },
+  {
+    "id": "87fe6721-dd33-4a25-9ea8-800fce96d006",
+    "propertyName": "Wellington Road",
+    "location": "Dellabury",
+    "owner": "Stanton",
+    "walletAddress": "3kmNQuo1KZ1QmDqgWZKPnxg1NB6NkGn",
+    "currentPrice": "62695.27",
+    "sellingPrice": "89720.40",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=4345117175447552",
+      "https://loremflickr.com/640/480?lock=6843871774375936",
+      "https://loremflickr.com/640/480?lock=6062563540336640"
+    ]
+  },
+  {
+    "id": "5f8805be-3695-475b-82f9-9f481ea52dce",
+    "propertyName": "Jaiden Junctions",
+    "location": "Addiefort",
+    "owner": "Walton",
+    "walletAddress": "38K6rT6GueiJwvyrVb4WAD2GSNZTXDCdAFbJp",
+    "currentPrice": "32993.83",
+    "sellingPrice": "98502.68",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/VxD0XEbU/640/480",
+      "https://picsum.photos/seed/QUajJHr/640/480",
+      "https://picsum.photos/seed/Y1Fn8HFGM2/640/480"
+    ]
+  },
+  {
+    "id": "aa50f845-43e6-43af-997d-556034aca1a9",
+    "propertyName": "Glenna Court",
+    "location": "Riverview",
+    "owner": "Alessia",
+    "walletAddress": "1jpUbKdTmGkdoLKRFtqffBPXEZgVg5K2AYL",
+    "currentPrice": "46321.24",
+    "sellingPrice": "96325.15",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=2083410038226944",
+      "https://picsum.photos/seed/NIlQak9dB/640/480",
+      "https://loremflickr.com/640/480?lock=8219845176852480"
+    ]
+  },
+  {
+    "id": "72f5fb31-4f18-4aa4-9528-cca8db31fb73",
+    "propertyName": "Moss Lane",
+    "location": "New Michaelaton",
+    "owner": "Cloyd",
+    "walletAddress": "1QesS58QRWxW52jaAcRP8ne9jTMUWb",
+    "currentPrice": "37296.32",
+    "sellingPrice": "42983.55",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/MqioJNl/640/480",
+      "https://loremflickr.com/640/480?lock=6486345998401536",
+      "https://picsum.photos/seed/cpzvjzYr27/640/480"
+    ]
+  },
+  {
+    "id": "d6e1b1ce-e998-4e54-9bfb-8be281e8a523",
+    "propertyName": "Central Street",
+    "location": "Pearl City",
+    "owner": "Carlee",
+    "walletAddress": "13BHkk8rPn4PzJzbBgmf6JP9jY4y",
+    "currentPrice": "49655.29",
+    "sellingPrice": "3819.49",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/H5xNVp/640/480",
+      "https://loremflickr.com/640/480?lock=1305910324494336",
+      "https://loremflickr.com/640/480?lock=6350680971280384"
+    ]
+  },
+  {
+    "id": "7ffc5d01-3f36-4594-86f1-04ab0a50f3c1",
+    "propertyName": "Loraine Extensions",
+    "location": "Cordeliaside",
+    "owner": "Orpha",
+    "walletAddress": "1iabsnDH4jUgRqSXgjfdYtU7nXi",
+    "currentPrice": "38640.51",
+    "sellingPrice": "67198.95",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/MIRmB/640/480",
+      "https://picsum.photos/seed/J4O3fAQqR7/640/480",
+      "https://picsum.photos/seed/nCgu37r/640/480"
+    ]
+  },
+  {
+    "id": "29cb8de5-ac33-448d-9774-5d86cdc093b0",
+    "propertyName": "Dach Trace",
+    "location": "Elliotstad",
+    "owner": "Mavis",
+    "walletAddress": "3F3Hsixxh6Xqte53ugxPHBrQFJiZJKacEEvB9Mxx",
+    "currentPrice": "90047.82",
+    "sellingPrice": "83942.07",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=670676732084224",
+      "https://picsum.photos/seed/WwXLD/640/480",
+      "https://loremflickr.com/640/480?lock=237455464726528"
+    ]
+  },
+  {
+    "id": "b680f00a-5077-491e-9695-00362e57efe2",
+    "propertyName": "Sydnie Underpass",
+    "location": "Keaganmouth",
+    "owner": "Brooklyn",
+    "walletAddress": "3577fsTFVCaEEz1ZwSbvKoxLHiWbvHVnj73A5yR",
+    "currentPrice": "74266.19",
+    "sellingPrice": "52671.91",
+    "currency": "USD",
+    "pictures": [
+      "https://loremflickr.com/640/480?lock=5941121672806400",
+      "https://picsum.photos/seed/rWzRWHhtD/640/480",
+      "https://picsum.photos/seed/mDrtEiK/640/480"
+    ]
+  },
+  {
+    "id": "c50cbfa6-c733-4316-b8e2-088e1a1cb6cf",
+    "propertyName": "Benedict Branch",
+    "location": "West Jeromy",
+    "owner": "Finn",
+    "walletAddress": "3ZHgfvqPGdjuJfJ5DyyvSQepvA",
+    "currentPrice": "73899.02",
+    "sellingPrice": "59726.64",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/Cp33TCu0/640/480",
+      "https://picsum.photos/seed/OBpfsS/640/480",
+      "https://picsum.photos/seed/cQy3dKNu/640/480"
+    ]
+  },
+  {
+    "id": "b5cce218-a8e8-4dd4-b688-f49313215a2e",
+    "propertyName": "McKenzie Avenue",
+    "location": "New Frederikfort",
+    "owner": "Heber",
+    "walletAddress": "3y6U1QmLkWrdPHSedtuNTWQLHMbVP7k7",
+    "currentPrice": "90918.40",
+    "sellingPrice": "99986.98",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/wpD0Szd7MG/640/480",
+      "https://picsum.photos/seed/vu3UCc/640/480",
+      "https://loremflickr.com/640/480?lock=7550583745544192"
+    ]
+  },
+  {
+    "id": "cbbc9ab4-f8bd-4dde-85cf-0b42e36c76ce",
+    "propertyName": "E 7th Street",
+    "location": "Selmerland",
+    "owner": "Rory",
+    "walletAddress": "1fTSgwMkGmvXCMgnHpecnyAFr4CSB3MbabN",
+    "currentPrice": "99228.20",
+    "sellingPrice": "46562.02",
+    "currency": "USD",
+    "pictures": [
+      "https://picsum.photos/seed/5TlToDN/640/480",
+      "https://loremflickr.com/640/480?lock=4093202780913664",
+      "https://picsum.photos/seed/97OdO1Hg/640/480"
+    ]
+  }
+]

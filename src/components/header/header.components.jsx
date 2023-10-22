@@ -1,6 +1,8 @@
 import React, { useContext } from 'react';
-import { LOGO } from '../../assets';
 import { Link, useNavigate } from 'react-router-dom';
+
+// Internal
+import { LOGO } from '../../assets';
 import { AuthContext } from '../../context/auth.context';
 import './header.styles.css';
 
@@ -17,7 +19,7 @@ const Header = () => {
 		return navigate("/")
 	}
 	return (
-		<div className='header'>
+		<div className='header trans-from-top'>
 			<div className="header-left" onClick={() => HandleLogoNav()}>
 				<img src={LOGO} alt="" />
 				<h2 className='logo-title'>Landate</h2>
@@ -30,25 +32,32 @@ const Header = () => {
 						</Link>
 					</li>
 					<li>
-						<Link to="/claim">
-							Claim
+						<Link to="/about">
+							Connect
 						</Link>
 					</li>
-					<li>
-						<Link to="/listing/buy">
-							Buy
-						</Link>
-					</li>
-					<li>
-						<Link to="/sell">
-							Sell
-						</Link>
-					</li>
-					<li>
-						<Link to="/more">
-							More
-						</Link>
-					</li>
+					{isAuthenticated ? <>
+						<li>
+							<Link to="/claim">
+								Claim
+							</Link>
+						</li>
+						<li>
+							<Link to="/listing/buy">
+								Buy
+							</Link>
+						</li>
+						<li>
+							<Link to="/sell">
+								Sell
+							</Link>
+						</li>
+						<li>
+							<Link to="/more">
+								More
+							</Link>
+						</li>
+					</> : <></>}
 					<li>
 						{
 							!isAuthenticated ? (
