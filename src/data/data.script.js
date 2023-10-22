@@ -32,7 +32,7 @@ const saveLocationDataToJsonFile = (data, fileName) => {
 }
 
 const propertyDetailsArray = [];
-for (let i = 0; i < 150; i++) {
+for (let i = 0; i < 1550; i++) {
     propertyDetailsArray.push(getLocationData());
 }
 

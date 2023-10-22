@@ -41,6 +41,7 @@ const Listing = () => {
       <div className="listing-container">
         <div>
           <div className="listing-search-header">
+         
             {/* <Searchbox /> */}
             <div className="listed-search">
               <img className='src-icon' src={SEARCHICON} alt="" />
@@ -48,6 +49,9 @@ const Listing = () => {
                 type="text" 
                 onChange={handleSearch} 
                 placeholder='Search Location / Area / City' />
+            </div>
+            <div className="search-results">
+              <p>{Listed.length !== 0 ? <> 🙌 </> : <> 😔 </>}  {Listed.length} available results. </p>
             </div>
           </div>
           <div className="listed-properties">
