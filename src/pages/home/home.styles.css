@@ -82,3 +82,31 @@
 .marquee-flow {
     margin-bottom: 15rem;
 }
+
+.intro-header {
+    text-align: center;
+    background: -webkit-linear-gradient(#00fff7, #2405ee);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+   
+}
+
+.intro-header h2 {
+    font-weight: 500;
+}
+
+.intro-web {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-section {
+    margin-top: 10rem;
+    background-color: #fefae7;
+    height: 45rem;
+    display: flex;
+    justify-content: center;
+    padding: 5rem 0;
+}
+

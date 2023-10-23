@@ -1,7 +1,7 @@
 .footer {
     padding: 1rem 2rem;
-    margin-top: 4rem;
-    background-color: rgb(254, 250, 231);
+    /* margin-top: 4rem; */
+    background-color: #fefae7;
 }
 .footer-container {
     display: flex;

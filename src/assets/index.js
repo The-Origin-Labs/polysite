@@ -6,6 +6,8 @@ export { default as INSTAGRAM } from './insta.png';
 export { default as LINKEDIN } from './linkedin.png';
 export { default as TWITTER } from './twitter.png';
 
+export { default as MOCK1 } from './mock1.png';
+export { default as MOCK2 } from './mock2.png';
 
 export { default as KUBERNETES } from './tools/k8s.svg';
 export { default as NGINX } from './tools/nginx.svg';
@@ -23,5 +25,6 @@ export { default as PROMETHEUS } from './tools/prometheus.svg';
 export { default as CONSUL } from './tools/consul.svg';
 export { default as TERRAFORM } from './tools/terraform.svg';
 
+export { default as MAP } from './map.png';
 
 

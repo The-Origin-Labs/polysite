@@ -1,7 +1,7 @@
 import React from 'react';
 
 // Internal
-import { Hero } from '../../components'
+import { Featured, Hero, Contact } from '../../components'
 import './home.styles.css';
 import Servicecard from '../../components/shared/servicecard/servicecard.shared';
 import SERVICEDATA from '../../components/content/service.json';
@@ -19,7 +19,7 @@ import {
   AWS, JS,
   GRAFANA,
   PROMETHEUS,
-  CONSUL, TERRAFORM
+  CONSUL, TERRAFORM, MAP
 } from '../../assets';
 
 const TECHLIST = [
@@ -86,6 +86,23 @@ const Home = () => {
             <img src={tech.img} className='tech-icon' alt="" />
           ))}
         </Marquee>
+      </div>
+
+      {/* Product Description */}
+      <div className="intro-header">
+        <h2>Introducing Landate.</h2>
+      </div>
+      <div className="intro-web">
+          <Featured />
+      </div>
+
+      {/* Contact Us */}
+      <div className="contact-section" 
+        style={{ backgroundImage: `url(${MAP})`, 
+        backgroundRepeat: 'no-repeat', 
+        backgroundSize: 'cover'
+      }}>
+        <Contact />
       </div>
     </div>
   )
