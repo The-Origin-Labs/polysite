@@ -27,4 +27,4 @@ export { default as TERRAFORM } from './tools/terraform.svg';
 
 export { default as MAP } from './map.png';
 
-
+export { default as AVATAR } from './avatar.png';

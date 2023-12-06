@@ -20,6 +20,41 @@
     /* width: 100; */
 }
 
+.svc-bg {
+    position: absolute;
+}
+
+.svc-circle-1 {
+    position: absolute;
+    height: 80rem;
+    width: 80rem;
+    border-radius: 80rem;
+    z-index: -2;
+    background: radial-gradient(50% 50% at 50% 50%, rgba(221, 56, 56, 0.30) 0%, rgba(255, 99, 99, 0.00) 100%);
+}
+
+.svc-circle-1 {
+    position: absolute;
+    height: 80rem;
+    width: 80rem;
+    border-radius: 80rem;
+    z-index: -2;
+    background: radial-gradient(50% 50% at 50% 50%, rgba(59, 221, 56, 0.3) 0%, rgba(255, 99, 99, 0.00) 100%);
+}
+
+.svc-circle-2 {
+    position: absolute;
+    height: 80rem;
+    width: 80rem;
+    border-radius: 80rem;
+    z-index: -2;
+    margin-top: -20rem;
+    margin-left: -40rem;
+    background: radial-gradient(50% 50% at 50% 50%, rgba(32, 234, 180, 0.3) 0%, rgba(255, 99, 99, 0.00) 100%);
+
+}
+
+
 .service-header span {
     color: #1B82E0;
 }

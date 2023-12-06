@@ -1,0 +1,76 @@
+.sell-propery-card {
+  margin: 2rem 0;
+}
+.sell-prop-img {
+  height: 15rem;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+
+}
+
+.sell-prop-container {
+  display: flex;
+  width: 50rem;
+  padding: 0 2rem;
+}
+
+.sell-prop-details {
+  padding: 0 1rem;
+}
+
+.sell-property-actions {
+  position: relative;
+  margin-top: -2rem;
+  height: 5rem;
+  background-color: white;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+  border-radius: 20px;
+}
+
+.sell-property-actions {
+  display: flex;
+  justify-content: center;
+  padding: 1.5rem 0;
+}
+
+.sell-act-button {
+  margin: 0 1rem;
+  display: inline-block;
+  outline: none;
+  cursor: pointer;
+  font-weight: 500;
+  border-radius: 3px;
+  padding: 0 15px;
+  border-radius: 4px;
+  color: #515151;
+  background: transparent;
+  line-height: 1.15;
+  font-size: 14px;
+  height: 36px;
+  word-spacing: 0px;
+  letter-spacing: .0892857143em;
+  text-decoration: none;
+  text-transform: uppercase;
+  min-width: 64px;
+  border: 1px solid #515151;
+  text-align: center;
+  transition: background 280ms cubic-bezier(0.4, 0, 0.2, 1);
+
+
+}
+
+.sell-act-button:hover {
+  background: #f4f4f4;
+}
+
+.button-red {
+  border: 1px solid #ee0000;
+  color: #ee0000;
+  transition: all .2s;
+
+}
+
+.button-red:hover {
+  background-color: #ee0000;
+  color: white;
+}

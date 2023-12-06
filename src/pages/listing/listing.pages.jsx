@@ -8,10 +8,10 @@ import Properties from '../../data/properties.json';
 
 import './listing.styles.css';
 import { SEARCHICON } from '../../assets';
+import { createMockServer } from '../mirage/mockServer';
 
 
-let server = createServer()
-server.get("/api/property", { properties: Properties })
+createMockServer()
 
 const Listing = () => {
   const [ search, setSearch ] = useState("")
@@ -21,8 +21,8 @@ const Listing = () => {
     fetch("/api/property")
       .then((res) => res.json())
       .then((json) => {
-        console.log(json.properties)
-        setProperties(json.properties)
+        console.log(json.property)
+        setProperties(json.property)
       })
   }, [])
 
@@ -32,7 +32,10 @@ const Listing = () => {
   }
 
   let Listed = property.filter(ppty => 
-    ppty.location.toLowerCase().includes(search.toLowerCase())
+    ppty.location.toLowerCase().includes(search.toLowerCase()) ||
+    ppty.owner.toLowerCase().includes(search.toLowerCase()) || 
+    ppty.propertyName.toLowerCase().includes(search.toLowerCase()) || 
+    ppty.walletAddress.toLowerCase().includes(search.toLowerCase())
   ) 
 
   return (
@@ -48,7 +51,7 @@ const Listing = () => {
               <input className='search-location' 
                 type="text" 
                 onChange={handleSearch} 
-                placeholder='Search Location / Area / City' />
+                placeholder='Search by Location / Area / City / Name / WalletAdress' />
             </div>
             <div className="search-results">
               <p>{Listed.length !== 0 ? <> 🙌 </> : <> 😔 </>}  {Listed.length} available results. </p>

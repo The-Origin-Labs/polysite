@@ -1,5 +1,5 @@
-import React from 'react';
-
+import React, { useEffect } from 'react';
+import { useInView } from 'react-intersection-observer';
 // Internal
 import { Featured, Hero, Contact } from '../../components'
 import './home.styles.css';
@@ -21,6 +21,9 @@ import {
   PROMETHEUS,
   CONSUL, TERRAFORM, MAP
 } from '../../assets';
+import { createMockServer } from '../mirage/mockServer';
+
+createMockServer()
 
 const TECHLIST = [
   { img: KUBERNETES },
@@ -41,6 +44,12 @@ const TECHLIST = [
 ]
 
 const Home = () => {
+  useEffect(() => {
+    fetch("/api/property")
+    .then((res) => res.json())
+    .then((json) => console.log(json.property))
+  }, [])
+
   return (
     <div className='home-page'>
       <div className="hero-section"></div>
@@ -50,6 +59,11 @@ const Home = () => {
         <div>
           <div className='service-header trans-from-right'>
             <h1>Services offered by <span>Landate</span></h1>
+          </div>
+          <div className="svc-bg">
+            <div className="svc-circle-1"></div>
+            <div className="svc-circle-2"></div>
+
           </div>
           <div className="services-offered">
             {SERVICEDATA.map((data) => (

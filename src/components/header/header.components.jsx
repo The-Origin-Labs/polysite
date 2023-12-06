@@ -12,7 +12,7 @@ const Header = () => {
 	const navigate = useNavigate();
 
 	const HandleLogin = () => {
-		return navigate("/auth")
+		return navigate("/profile/Andrew")
 	}
 
 	const HandleLogoNav = () => {
@@ -29,11 +29,6 @@ const Header = () => {
 					<li>
 						<Link to="/about">
 							About Us
-						</Link>
-					</li>
-					<li>
-						<Link to="/about">
-							Connect
 						</Link>
 					</li>
 					{isAuthenticated ? <>
@@ -53,7 +48,7 @@ const Header = () => {
 							</Link>
 						</li>
 						<li>
-							<Link to="/more">
+							<Link to="/profile/Andrew">
 								More
 							</Link>
 						</li>
@@ -65,7 +60,7 @@ const Header = () => {
 									Log In
 								</button>
 							) : (
-								<div className='userwallet-addr-cnt'>
+								<div className='userwallet-addr-cnt' onClick={HandleLogin}>
 									<p>{account.toString().slice(0, 5)}.......{account.toString().slice(account.toString().length - 2, account.toString().length)}</p>
 								</div>
 							)

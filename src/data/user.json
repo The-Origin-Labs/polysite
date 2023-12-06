@@ -1,0 +1,84 @@
+{
+  "userId": 1,
+  "info": {
+    "name": "Andrew Mack",
+    "age": 28,
+    "walletAddress": "0x34538D0E95eFf17f528D67a7fc0dF8B91C0dC0b8",
+    "email": "andrewmack@gmail.com",
+    "marital_status": "married",
+    "profession": "Doctor",
+    "userImg": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  "property": {
+    "owned": [
+      {
+        "propertyId": "1vx21",
+        "propertyName": "Sea View Heights",
+        "description": "1,160 square feet of living space and a lot size of 5,499 square feet, Your family and loved ones will enjoy: The spacious backyard, perfect for family gatherings.",
+        "location": {
+          "place": "74th Street Park Avenue",
+          "latitude": -27.4703,
+          "longitude": 153.0266
+        },
+        "transaction": {
+          "from": "0x2131138D0E95eFf17f528D67a7fc0dF8B91C511v1",
+          "to": "0x34538D0E95eFf17f528D67a7fc0dF8B91C0dC0b8"
+        },
+        "price": 1500000,
+        "currency": "usd",
+        "dateOfTransaction": "2021-03-10T10:00:00Z",
+        "nominee": "",
+        "contractId": "0x742d35Cc6634C0532925a3b844Bc454e4438f44e",
+        "document": "file://s3:bucket",
+        "propertyImg": "https://images.pexels.com/photos/7534561/pexels-photo-7534561.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "precentageOwnership": 1
+      },
+      {
+        "propertyId": "2v115",
+        "propertyName": "Manhattan Street, NYJ",
+        "description": "1,160 square feet of living space and a lot size of 5,499 square feet, Your family and loved ones will enjoy: The spacious backyard, perfect for family gatherings.",
+        "location": {
+          "place": "74th Mahattern, Lexi Corp Area",
+          "latitude": -27.4703,
+          "longitude": 153.0266
+        },
+        "transaction": {
+          "from": "0xF231138D0E95eFf17f528D67a7fc0dF8B91C5bv21",
+          "to": "0x34538D0E95eFf17f528D67a7fc0dF8B91C0dC0b8"
+        },
+        "price": 2100000,
+        "currency": "usd",
+        "dateOfTransaction": "2023-04-10T20:00:00Z",
+        "nominee": "",
+        "contractId": "0x812d35Cc6634C0532925a3b844Bc454e4438f32e",
+        "document": "file://s3:bucket",
+        "propertyImg": "https://images.pexels.com/photos/6758773/pexels-photo-6758773.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "precentageOwnership": 1
+      }
+    ], 
+    "selling": [
+      {
+        "propertyId": "1vx21",
+        "propertyName": "Sea View Heights",
+        "description": "1,160 square feet of living space and a lot size of 5,499 square feet, Your family and loved ones will enjoy: The spacious backyard, perfect for family gatherings.",
+        "location": {
+          "place": "74th Street Park Avenue",
+          "latitude": -27.4703,
+          "longitude": 153.0266
+        },
+        "transaction": {
+          "from": "0x2131138D0E95eFf17f528D67a7fc0dF8B91C511v1",
+          "to": "0x34538D0E95eFf17f528D67a7fc0dF8B91C0dC0b8"
+        },
+        "price": 2500000,
+        "currency": "usd",
+        "dateOfPosting": "2023-08-10T10:00:00Z",
+        "nominee": "",
+        "contractId": "0x742d35Cc6634C0532925a3b844Bc454e4438f44e",
+        "document": "file://s3:bucket",
+        "propertyImg": "https://images.pexels.com/photos/7534561/pexels-photo-7534561.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "precentageOwnership": 1
+      }
+    ]
+  }
+}

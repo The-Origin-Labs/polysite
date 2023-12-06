@@ -1,0 +1,28 @@
+
+
+.sell-page-header h1 {
+ font-size: 25rem;
+ position: absolute;
+ z-index: -2;
+ margin-left: 20%;
+ margin-top: 25rem;
+ color: rgba(170, 170, 170, 0.171);
+ 
+}
+
+.sells-listing {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.sell-search-container {
+  padding: 0 2%;
+}
+
+.sell-bg {
+  background-color: rgba(13, 217, 203);
+  border-radius: 20px;
+  padding: 0 4rem;
+}
